@@ -1,0 +1,3686 @@
+Chapter 1: The Quiet Day
+
+Rafael “Rafe” Navarro had convinced himself years ago that sleep was optional. Between night shifts and overtime, the life of a call-center supervisor meant living five hours at a time, stealing sleep wherever the schedule allowed: on the bus, under blankets in a hot one-room flat, in the backseat of his Honda when the morning shift started at midnight and his body refused to stay awake. By the time the sun climbed over the low concrete of Riverside that morning, he had been awake for thirty‐two hours. His eyes felt like they sat a millimeter too deep in his skull; even coffee tasted like ash.
+
+He stood at the window of the office break room and watched a pale smear of light crawl along the river. The water reflected a low skyline: rusting cranes, low warehouses, a string of sari-sari stores, the occasional jeepney painted like a carnival. Riverside still kept its small-town rhythm even as the city pressed in around it. Drivers honked at traffic, a tricycle driver shouted at a kid crossing the street with a bag of pandesal, and a group of construction workers clustered around a radio, laughing at a joke that Rafe couldn’t hear.
+
+On the desk behind him a bank of headsets lay like discarded insects. The night team had finished their handover five minutes ago, and most of Rafe’s staff were at their stations, speaking in low, practiced voices. Their monitors glowed in blues and greens, a hundred conversations turned into clean rectangles of text. Business as usual. It had to be. The client had told them not to cancel calls, even during typhoons. The client paid the bills.
+
+Then, without ceremony, the office went quiet.
+
+Not the pleasant, 2 a.m. lull that followed a sudden drop in volume, but a silence like someone had lifted the room out of the world and set it aside. The monitors still showed live timers and queues, but the chat feeds stalled: no incoming calls were routing, no pings, no support tickets. Rafe frowned and tapped the keyboard. The internal chat used for supervisors flickered: “Anyone else?” “Is this on our side?”
+
+A few phones on the floor lit up with static and then cut. Phones stayed dead. On the street below, the construction workers that had been laughing now stood in a thin line, staring up at the sky. A palm tree leaf shivered in a wind Rafe couldn’t feel. The guard posted at the front gate leaned back in his chair and swore softly; his radio was silent, its green LED blinking.
+
+“Network’s out,” whispered Nina, one of Rafe’s team leads. She had a coffee stain near her collar and a look a person gets when they have been survival-trained by corporate. “Power’s fine.”
+
+“That’s odd,” Rafe said, tasting the word. “Check your phones. Any service?”
+
+Heads bent, thumbs pulsed, then rose as people discovered the same thing: the signal bar had gone. No calls. No messages. The small, private panic of being unable to verify normal life flared across the floor like fog.
+
+Outside, a siren started—one, then two, then dozens. It was the sound of authority trying to slice through the unknown, and like every unfamiliar sound, it made the people near the windows turn toward it.
+
+“Maybe it’s just a glitch,” Rafe said, although he didn’t believe it. The world didn’t talk to him anymore in that comfortable, tabbed way. People on the floor spoke in clipped sentences now, a different register entirely. Someone cleared their throat. Another person shoved their chair back and walked to the window.
+
+That’s when the first scream cut the morning.
+
+Not one of the distant, theatrical screams from films; this one was close, ragged, a human throat being used as an alarm. It came from the direction of the river market—thousands of feet below, where vendors unpacked produce and kids chased each other between stalls. The vendors’ voices rose like a tide.
+
+Rafe pushed through the crowd of coworkers at the windows. He could see only the backs of heads and the sliver of street, but then a shape burst into view: a man running, his shirt in tatters, his face a mask of raw, animal terror. Behind him, another figure lunged. It moved wrong—its arms too loose, the gait crooked, as if the joints were being dragged by someone else. The second figure caught the first one and clamped at his neck with frenetic, slavering intent.
+
+Everyone in the room made the same involuntary sound: a soft, terrified breath. The man being bitten did not scream long. He convulsed, stumbled, and fell. The attacker—no, the infected—turned as if sensing eyes; its head swiveled too fast. Something in its face had gone—familiarity stripped away—leaving only hunger scaled up to a human head.
+
+Nina gripped the window ledge, knuckles white. “What the hell is that?”
+
+“Run,” Jun, the head of security, said, although to whom was unclear. He was already heading for the front door. The guard at the gate had radioed someone—someone with a rank—but his voice came back small and hollow, then cut.
+
+The office turned from desk to departure in the space of a heartbeat. Papers fluttered, monitors blinked into tiny errors, and people moved like a flock. Rafe had the quick, ugly pleasure of being useful: he shepherded people toward the stairwell, into the stairwell, telling them to stay together even as his own heart hammered a guilty rhythm. He told himself he was being logical, doing his job. The part of him that trusted authority—the part corporate called his “reliability index”—kept reciting procedures.
+
+“Take the back exit,” he said to a bundle of younger agents who looked like they might collapse in a heap. “Stay in pairs. Don’t stop.”
+
+Outside, the street was nothing like the usual mess of Riverside. Cars were abandoned in sudden haphazard: doors open, engines idle, an overturned motorcycle in the middle of the lane. People ran in various directions; some dragged luggage, some clung together. Near the river market, a crowd of people had gathered at an intersection, staring at what had happened there like an audience at a street show. Others were already screaming, and some were fainting.
+
+“Look!” someone yelled. “They’re everywhere.”
+
+Rafe followed the sound of the shout and saw, with a clarity that made the blood drain from under his skin, a scene he would later realize he’d already seen in the bad movies: infected swarming a street vendor’s cart like insects; neighbors pulling away their friends as if worried about contagion rather than offering help; a child standing with a plastic balloon while the adults around her moved like predators, eyes blank but attentive to the smallest sound.
+
+The infected were not just attacking—they were possessed of singleminded brutality. They moved fast in short sudden bursts. They ignored loud noises that would have been impossible to ignore in any ordinary person, walking right through the clanging of tin and the cursing of vendors. When they bit, they didn’t hesitate. They chewed and tore as if the act itself was a physical necessity. Flesh, once exposed, would be consumed like food. Blood painted the pavement in bloody, bright rivers.
+
+“Everyone inside,” Jun barked. He was already pulling a metal bar off a building, using it to wedge shut a shop door. He was a man built for small emergencies—lights, minor thefts, neighborhood kids on motorcycles—and he behaved now like those skills added up to something useful.
+
+A woman with two small kids clutched both their hands, her face slack. Rafe reached for one of the kids instinctively. “Hey—here,” he said, not sure which voice to use, the commanding one or the frightened one. The woman’s lips moved, she looked at him as if considering a thousand plea bargains, then hesitated. Another infected came for her. Rafe grabbed the boy and shoved him toward Jun. “Take them,” he said, and there was no room left in his chest for guilt.
+
+They ran. The crowd thinned at the edges—people abandoning cars, people turning back toward their homes with angry, determined faces as if nothing had happened yet. A taxi driver pushed past Rafe, horns blaring; he drove recklessly through a cluster of infected, hitting one of them and sliding on the body. The taxi’s back seat held a woman in a nurses’ uniform with blood on her sleeve; she had a look of someone who had already decided a cost was nonnegotiable.
+
+Rafe found himself moving with three others: Nina—no nonsense even now—, Marco, a delivery rider with a cap and a bandana, and Liza, a temporary agent who kept one hand lightly on her purse as if it contained something precious. They weren’t heroes. They were survivors with small, default reflexes like breathing and moving. They knew nothing of strategy, only of instinct.
+
+They made for the office tower where Rafe worked, a squat block with a flaking façade. Inside, someone had already locked the main doors. Sweat plastered their shirts to their backs. The elevator was out; the stairwell smelled of dust and something sweet, the smell of fruit gone wrong.
+
+“Barricade,” Jun said without preamble. He grabbed the heavy rubbish bin and wedged it across the door. People lashed chairs together and shoved heavy desks against the glass until the entrance resembled a compound. Someone scrambled onto the roof with a pair of binoculars and returned shaking his head: the river was lined with people running in both directions, and at least two buses had been abandoned in the middle of the bridge.
+
+Inside, the fluorescent lights blinked and remained steady—the building's backup power had kicked in—and that thin banner of normality felt absurd. Phones still showed no bars. The internal radio that normally gossiping staff used for jokes was a dead box. Someone lit a candle, and the flame wobbled with the building’s hum.
+
+“We can’t stay up here,” Nina said, the tune of practical planning returning to her voice. “We need water, food, a plan.”
+
+“No ships, no traffic,” someone said from the stairwell. The tone was sour with information. “The bridge is blocked. The highway—” He stopped; his eyes sought the faces around him.
+
+Rafe felt a wave of something like vertigo. If there was no signal, there were no updates. No updates meant no explanation, which meant everyone was making up explanations in the margins—and those were always worse than the truth.
+
+The first night of anything is mostly small gestures of normality: people trading phone batteries like relics, sharing a bottle of water and distributing it like currency, patching a scraped knee. They assigned watches, sleeping in two-hour shifts so someone could stay alert. A rhythm grew out of the fear, the same way rules grow in a burning building.
+
+Rafe found himself on the second watch, eyes stinging, the city beyond the windows both distant and immediate. His head felt like an animal caught in a trap: adrenaline raced then offered no solution. He stared out at Riverside and tried to catalog what he saw. The river reflected a broken sky. A small boat floated, empty. A signboard used to advertise an internet café now hung at a mad angle. In the distance a high building’s upper stories caught fire—an orange bloom that seemed, absurdly, like warmth.
+
+“You did good,” Nina said at his shoulder. He turned. She had wrapped her scarf tighter around her neck; her hair was a messy halo.
+
+“How do you know I did good?” he asked. It was a poor joke, and it landed like a pebble.
+
+“You got us out,” she said, and her voice had the exact measure of accuracy that made him want to believe it.
+
+There were other survivors in the room now; faces he'd memorized in the span of a morning: a man in a barong whose wrists were cuffed with a simple leather strap and who trembled when he talked about his missing wife; a high school teacher who'd carried a crate of student projects like a keepsake; a vendor whose hands were still stained with spices. Each told their version of a morning before the scream, before the bite. They said the word “infected” like someone reciting a recipe, naming an ingredient they could not identify.
+
+From the hall came a thud—a sound like a door being tested. The room went silent, each head turning as if pulled by a magnet. A shape moved at the far window and a woman screamed.
+
+“It will get worse,” Jun said, his voice suddenly old. He had said it like a man who had finally remembered an old law: when normal fails, chaos fills its place.
+
+Rafe sat down hard on a plastic chair, hands on his knees. He felt the weight of a thousand small obligations he hadn’t been asked for: a family he hadn’t yet been able to call, colleagues who would look to him for decisions he did not want to make, the human residue of a city that had just gone missing. Recife, a name had just come back to him—no, not Recife, his sister’s text had said last week she was coming to visit in December—and he couldn't reach her. The thought that he might never speak to her again was a cold calculation; he tried to push it away, then failed.
+
+He imagined, with ugly clarity, doors opening and closing and never opening again. He imagined the infected behind a glass facade their mouths black and wet. He imagined himself older and hollowed, telling a small child how the world had ended and being unable to make the story sound like anything but a list of failures.
+
+When the first infected tried the building’s door—curious, pushing with hands that had once worked the land and now only adhered to the act of pushing—Jun was waiting. He raised a small handheld stepladder and smacked the thing with it like a man batting a dog away. It crumpled and then was a person again, a heap like a rag. It made a sound that was not a sound, some animal thing that never reached vocal chords. Rafe watched, like a doctor in a war zone watching an experiment, and felt nothing but a practical dryness.
+
+He realized he had been thinking about himself. About his job, his sleep, his sister. He tried to reframe the math: there were now twelve of them in the room, more likely to stay alive together than alone. There were three windows. They had water enough for two days if rationed. There was canned tuna, a small fortune apparently, and a crate of instant noodles someone had contributed. Outside, the city was dying in swift breaths. Inside, people tried to keep their voices low.
+
+Around midnight, when the city became a laundry of distant alarms and a chorus of low moans that sounded like furniture settling, Rafe noticed how quiet people could be when their lives aligned to a single purpose. He listened as a woman mumbled a prayer in Tagalog, as a teenage boy recited a rules list he’d seen in a movie, as Jun whispered tactical notes into the dark.
+
+Rafe thought, for the first time in weeks, about what he wanted to keep. Not his pay stub, not his headset, but the small, simple things: the smell of his mother’s adobo when she came home, the image of his sister laughing in a photograph, the sense of his own father’s old hands folded in prayer. He felt a sudden, hot shame that he had never cataloged them properly before.
+
+Outside, Riverside remained unmoored. He saw, in the distance through the pall of smoke and the flashing lights, the black silhouette of people running like a shoal of fish. He understood, in a slow widening of comprehension, that the world as he’d practiced it—taken as an act of faith—had changed.
+
+Morning would come. That was the smallest, most stubborn law left. And when it did, they would have to decide what to do with the new day.
+
+For now, Rafe sat and listened. The building had become temporary sanctuary and temporary prison. He closed his eyes and tried to make himself a promise: wake, breathe, lead if he must, feel when he must, and never let the small, ordinary things slip away unregistered again. He would remember the way Nina gripped his sleeve, Marco humming off-key, the little boy who had chewed his lips raw. In a world that snatched things in sudden bites, memory was a kind of currency.
+
+When he opened his eyes, the river outside was a strip of pewter and the burn on the horizon had dimmed. The city was quieter. The quiet, he knew now, was not peaceful. It was a waiting thing—hungry, patient, inevitable.
+
+They would move in the morning. They would decide whether to try for the coast, or the highway, or to stay and fortify. None of them had the map to answer that yet. The network was dead. The radios were dead. Only human voices remained to barter plans.
+
+Rafe rose and walked to the window. He pressed his palm to the glass and watched the passage of people below—shadows that once seemed safe, now suspicious. A child waved a rag at the air. A woman clutched an empty bucket like an amulet. An old man, stooped, walked with a cane and stared straight ahead as if he had already made his peace.
+
+He put a hand to the band of wounds the city had become and felt, for a long second, the small electric pulse of being alive.
+
+He would not, he decided, waste it.
+
+
+Chapter 2: The First Night
+
+The building groaned with the settling heat of late afternoon as the last surviving employees from Rafe’s office herded into the dim lobby. Dust collected in the corners, stirred by panicked footsteps; the air smelled faintly of mildew, old paper, and something else—fear, maybe, which always seemed to have a temperature and texture of its own.
+
+They had escaped the streets by minutes. Maybe seconds.
+
+Rafe shut the door behind him and pushed the last desk into place, sealing them inside. The metal legs scraped loudly, echoing in the hollow lobby. He winced at the noise—everything outside had taught him that sound meant danger now.
+
+“Get that quiet,” Jun hissed, gripping the metal bar he’d used earlier like a weapon he was still learning to trust.
+
+Rafe braced himself against the desk, chest heaving. Sweat clung to his back. He had run before—late buses, heavy rainstorms, work emergencies—but never like that. Never from something that wanted to tear into him with teeth.
+
+He wiped a shaking hand across his forehead and scanned the survivors. Seventeen now. He tried to memorize the number because it made things feel organized, less fragile.
+
+Nina.
+Marco.
+Liza.
+A mother and her teenage son.
+A florist with a bloodied apron.
+Three office workers he barely knew by name.
+Five strangers who had followed them inside when the infected surged from the riverbank.
+
+Faces blurred, then sharpened as he forced himself to focus. Every new expression seemed like an indictment—fear, distrust, disbelief—looking at him as if he had answers he did not.
+
+Jun stepped forward and locked the metal door from the inside, placing the key in his pocket. “This building was under renovation last month. They gutted the second floor. No windows. We can hold there.”
+
+“Keys for the upstairs?” someone asked.
+
+“I have them,” Jun said, patting his belt. “We’ll move after we assess the situation.”
+
+The situation.
+
+A stupid phrase. Rafe had heard it in corporate meetings a thousand times, usually followed by a slide deck or damage control instructions. But outside, the situation was bodies on streets and creatures that used to be people.
+
+He felt the tremor in his bones again, the one that hadn’t left since the first scream.
+
+“Everyone, sit for a moment,” Rafe said before he could stop himself.
+
+Eyes turned toward him.
+
+He wasn’t their leader. He wasn’t even the highest-ranking person among them. He supervised a night shift of call agents. He wasn’t made for this.
+
+But they were looking at him the way a person looks at a flashlight in the dark—like anything with direction was better than what they had.
+
+He cleared his throat. “Just… take a breath. We’re alive, and inside. Let’s make sure we stay that way.”
+
+Nina gave him a small nod, relief softening the tight lines in her face.
+
+Rafe hadn’t meant to lead. He only wanted to speak, to fill the silence before fear swallowed the group from the inside out.
+
+But the moment he opened his mouth, the room leaned into him—quietly, subtly. A shift in gravity.
+
+The mother clutched her son closer. Liza held her purse to her chest as if protecting heirloom jewelry. Marco kept pacing near the windows, peeking through the slat blinds even though Rafe had told him not to.
+
+“We need water,” the florist said suddenly. Her name was Beth, he remembered now. “And food. Some of us haven’t eaten since morning. We can’t survive here without supplies.”
+
+“We have supplies,” Nina said. “A little from the office pantry. We need to ration.”
+
+Jun grunted. “We need to keep quiet first. These walls echo. And we don’t know how many are out there.”
+
+“Did you see how they moved?” Marco said, voice shaking. “Like… like wolves that forgot they used to be people.”
+
+A murmur rippled through the group.
+
+The infected had been horrifying enough in daylight—jerky movements, ravenous aggression, total lack of self-preservation—but as the shadows deepened, it felt as if they would evolve again.
+
+Rafe sat on the cold tile floor against the stairwell and pressed his palms against his temples. His mind kept replaying the moment the infected took down the vendor. The ragged chewing. The way the man stopped fighting too fast.
+
+The way the attacker turned, sensing movement even from several meters away.
+
+As if its mind was tuned to a frequency that only prey could trigger.
+
+He breathed slowly, willing the panic to stay at the edges of consciousness.
+
+“Rafe,” Nina said softly. “You good?”
+
+“No,” he admitted. “But I’m here.”
+
+It was the best he could offer.
+
+As dusk crept up the windows, the survivors moved to the second floor. The stairwell was lit by flickering emergency bulbs that cast long shadows across the concrete.
+
+The second floor was a hollow space: stripped cubicles, half-finished drywall, metal frames leaning like abandoned skeletons. The lack of windows made it claustrophobic, but safer.
+
+Marco dragged a torn office sofa into one corner. Others spread cardboard or old blankets found in a storage closet.
+
+“This place is hell,” someone muttered.
+
+“Better than the street,” another said.
+
+Disbelief clung to them like smoke. Even now, several people kept checking their phones, hoping for a network bar to magically reappear, as though bad reception could explain the monsters outside.
+
+The mother—the same woman Rafe had helped earlier—sat near the stairwell with her son and murmured to him.
+
+“What were those things?” the boy whispered.
+
+His voice cracked, young and fragile.
+
+“Just sick people,” she lied, stroking his hair. “Some fever.”
+
+Rafe wanted to correct her. Tell her he had seen sickness before—dengue outbreaks, flu pandemics, typhoons that triggered cholera—and none of them made anyone *move* like that. None of them turned people into predators.
+
+But he kept silent.
+
+People needed whatever version of reality was survivable.
+
+Night fell slowly, like the sky was dragging its body across the horizon.
+
+When it finally landed, the city transformed.
+
+They heard it before anything else.
+
+*The sounds.*
+The infected screamed differently in the dark.
+
+What had been ragged snarls and chaotic cries earlier became… organized. Rhythmic. Almost like a call-and-response.
+
+Beth froze halfway through tying her hair. “What was that?”
+
+Rafe held up a hand. “Quiet.”
+
+Then they heard it again—a long, low howl that reverberated across the empty office walls. Followed by answering growls, closer this time.
+
+“They’re hunting,” Jun said in a low voice. “They weren’t like this earlier.”
+
+Marco shivered. “Or we just didn’t notice.”
+
+“No,” Nina whispered. “They’re more aggressive now. They sound—”
+
+She stopped, because the next sound cut through everything:
+
+*Thud.*
+
+From below.
+
+Not a random thud.
+A deliberate one.
+Like something colliding with the door.
+
+The survivors stiffened. Every heartbeat synced.
+
+Then came another.
+
+*THUD.*
+A dragging sound.
+A snarl.
+
+Beth covered her mouth to muffle a sob.
+
+“Stay quiet,” Jun said, gripping his metal bar.
+
+Another snarl. Then scratching. Harder. Faster. Like fingernails on metal.
+
+“They know we’re inside,” Liza whispered.
+
+“No,” Rafe said, too quickly.
+
+But the truth was plain: they were being tracked. Hunted.
+
+Sound.
+Sound was what drew them.
+
+Rafe remembered how quickly the infected had reacted to the taxi driver’s honking. How turning a corner too fast had caught one’s attention.
+
+Night made it worse.
+
+If they made even one mistake now…
+
+He exhaled slowly.
+
+“We stay quiet. Everyone. No talking in full volume, no moving furniture, no banging.”
+
+“What if they get in?” someone asked.
+
+“We run upstairs,” Jun said. “Barricade the stairwell. Only one way up.”
+
+It wasn’t comforting.
+
+It wasn’t even a plan.
+
+But it was all they had.
+
+Half an hour later, panic struck like a spark hitting gasoline.
+
+A middle-aged man named Victor—someone who had followed them inside during the stampede—began hyperventilating. He pressed his back against a concrete pillar, shaking uncontrollably.
+
+“I can’t—I can’t breathe—” he wheezed.
+
+His wife, Miriam, clutched him. “Victor, calma ka lang. Calm down.”
+
+He pushed her off. “We’re going to die up here! All of us! We should have run to the bridge—I told you—”
+
+“Quiet,” Nina hissed.
+
+But Victor wasn’t listening. “We should go back outside. Look for police. Military—someone out there still works—”
+
+“There’s nothing out there,” Marco snapped. “You saw—”
+
+Victor surged to his feet. “Better out there than trapped in here like animals!”
+
+He bolted toward the stairwell.
+
+Straight toward the sound of scraping claws downstairs.
+
+Rafe moved before he could think.
+
+He grabbed Victor’s arm, jerking him back. “STOP!”
+
+Victor shoved him, eyes wild. “Let go! Let GO!”
+
+Rafe slammed him against the wall. Hard.
+
+A gasp rippled through the group.
+
+Victor froze.
+
+Rafe had never hit anyone in his life. He barely had the strength for gym days, let alone fights. But adrenaline had turned his limbs into iron.
+
+“Sit down,” Rafe said quietly. “Or you’ll get yourself—and your wife—killed.”
+
+Victor stared at him, chest heaving, eyes full of rage… then something else. Gratitude hidden under humiliation.
+
+He sank to the floor. Miriam hugged him tightly, whispering apologies.
+
+Rafe stepped back, breathing hard.
+
+Nina approached him. “Good call,” she murmured.
+
+“It won’t be the last panic attack,” Rafe said.
+
+“Probably not.”
+
+He rubbed his temples. His skin felt like it was vibrating, nerves firing constantly.
+
+He didn’t want to lead.
+
+He didn’t want responsibility.
+
+But if he didn’t step up, someone would get everyone killed.
+
+And something deep in his bones understood that reality with brutal clarity.
+
+It started with a sound that didn’t belong indoors.
+
+*Tap.*
+
+Light. Almost gentle.
+
+*Tap tap tap.*
+
+Rafe stood. “What the hell is that?”
+
+Jun moved toward the stairwell door and leaned close.
+
+His eyes widened.
+
+“They climbed.”
+
+“What?” Nina whispered.
+
+“They climbed the outside of the building. They’re at the windows.”
+
+As if to punctuate his words:
+
+*BAM!*
+
+A fist—or something like one—hit the glass window on the second floor.
+
+The survivors jerked back.
+
+Another hit. Harder.
+
+The glass cracked at the corner.
+
+A woman screamed before clamping her hands over her mouth.
+
+“Shhh!” Jun snapped.
+
+Rafe sprinted to the far wall where the drywall wasn’t complete. He looked through a gap into the room beyond—another unfinished space facing the street. Through the broken slats of the blinds, he saw movement.
+
+Shapes.
+Multiple shapes.
+Clinging to the outside of the building like ants.
+
+Their limbs spasmed, fingers digging into the ledges. The infected’s bodies jerked with unnatural vigor. Their eyes flicked wildly, searching for movement inside. When one saw Rafe through the crack, it let out a guttural shriek.
+
+“Shit,” Rafe whispered.
+
+Then the glass shattered.
+
+The infected hurled itself through the window, landing on all fours like an animal. Blood from its earlier kills dripped from its chin. Its eyes were white, pupils blown out like eclipses.
+
+It screeched and lunged.
+
+“MOVE!” Rafe yelled.
+
+Chaos detonated. People scattered. Someone tripped over a desk frame. The florist screamed. Marco threw a plastic chair at the infected, hitting its shoulder.
+
+Jun met it head-on, swinging his metal bar with brutal force.
+
+*CRACK.*
+
+The bar slammed into the infected’s skull. The creature staggered but didn’t fall. It clawed at Jun’s shirt, dragging him close.
+
+“JUN!” Rafe yelled.
+
+Nina grabbed a broken piece of drywall and rammed it into the infected’s neck. It gurgled, twisting violently. Jun swung again, smashing the bar down with a sickening crunch.
+
+The infected fell, limbs twitching, unnaturally animated even in death.
+
+Everyone froze.
+
+Then Rafe’s stomach dropped.
+
+More shapes moved outside.
+
+Four.
+
+Five.
+
+Seven.
+
+“All of you,” Rafe said, voice steady even as fear crawled up his spine, “get behind the desks. Stay low. Stay quiet. Jun—windows. Now.”
+
+Jun nodded sharply.
+
+Together they dragged metal cabinets and desk frames against the remaining windows. Nina helped hold them steady. Marco shoved a filing cabinet across the floor, the sound grating—but necessary.
+
+The pounding outside intensified as more infected sensed movement inside.
+
+*THUD.*
+*THUD THUD.*
+A shriek.
+Fingers scraping against concrete.
+
+A coordinated attack.
+
+“This wasn’t random,” Nina whispered. “They’re… they’re working together.”
+
+Rafe swallowed. The idea was too terrifying to unpack now.
+
+Another infected slammed against a barricaded window, rattling the metal frame. The survivors flinched.
+
+Rafe stepped forward.
+
+Not to confront the infected—Jun was already doing that—but to face the room.
+
+His voice came out low, measured, and carried a firmness he didn’t know he possessed.
+
+“Listen to me,” he said, looking each of them in the eye. “We stay together. We stay quiet. We only move if we have to. Anyone who panics puts everyone at risk. No shouting. No running. No banging.”
+
+People nodded, some reluctantly, some as if clinging to his voice.
+
+“We just survive the night,” Rafe continued. “That’s all we do. Morning will give us options. Right now, we only need to last until sunrise.”
+
+“Think the infected will calm down?” Liza whispered.
+
+“No idea,” Rafe said honestly. “But dawn changes things. Always has.”
+
+Jun grunted in agreement. “Animals behave differently in the dark.”
+
+“These aren’t animals,” Nina said.
+
+“No,” Rafe replied, “they’re worse. But we can beat them if we don’t lose our heads.”
+
+He turned to the barricaded window as another infected slammed into it.
+
+He held Jun’s metal bar, fingers tight around the cold steel.
+
+Not because he wanted to fight.
+
+But because he knew he might have to.
+
+Behind him, people huddled together, whispering prayers, clutching each other’s sleeves, trying not to cry loud enough to attract attention.
+
+Outside, the city echoed with feeding screams and the frantic padding of feet.
+
+Inside, the survivors waited, breath shaky, hearts heavy, and fear coiled in their stomachs like something alive.
+
+Rafe stood guard at the window, refusing to let the trembling in his legs show.
+
+He hadn’t wanted leadership.
+
+He certainly didn’t deserve it.
+
+But tonight—this first night—he was what they had.
+
+And for the first time since everything collapsed, he accepted it.
+
+He took a breath, raised the bar slightly, and watched the darkness shift outside.
+
+The infected were learning.
+
+So would he.
+
+The night stretched on—long, cruel, hungry—but Rafe kept his stance.
+
+And the survivors behind him, sensing the solid weight of someone standing in front of them, stayed quiet.
+
+Still afraid.
+
+But no longer alone.
+
+
+Chapter 3: Run to the Coast
+
+Morning arrived slowly, as if reluctant to expose the world it had abandoned the night before. Pale light filtered through the cracks in the boarded windows of the office building, gray and hesitant. Nobody had truly slept; rest had been a series of short, frantic naps punctuated by the sounds of infected pacing outside, snarling whenever a stray noise escaped the survivors inside.
+
+Rafe was awake before the sun fully breached the rooftops. His back ached from sleeping against a cold wall, and his throat was dry in a way that reminded him unpleasantly of desert documentaries and survival shows. He rubbed his eyes—gritty, swollen, exhausted—and stood. Jun was already by the stairwell, staring through a small gap he’d cut into a barricade to survey the street below.
+
+“How’s it look?” Rafe asked.
+
+“Better than last night,” Jun whispered. “Some infected still wandering. But not clustered. Looks like most of the horde followed noise deeper into the city.”
+
+“Or toward other survivors,” Rafe said quietly.
+
+Jun didn’t respond. He didn’t need to. Everyone had heard the screams echoing through the streets for hours. Some were human. Some weren’t.
+
+Nina approached, dark circles painted under her eyes. “Water’s nearly gone. The canned goods too. We either move now or die slow.”
+
+Rafe nodded. They had all known this moment was coming. They had prepared for it in the dim way people prepare for storms they can’t avoid—by pushing the inevitable a few feet away, an inch at a time.
+
+“We take what we can carry,” Rafe said, raising his voice enough for the others to hear. “No unnecessary weight. We move quietly. We stick together. And nobody goes off alone. If anyone needs a break, say it before you collapse. Understood?”
+
+The survivors murmured assent. Some showed determination. Some fear. Everyone showed hunger.
+
+They gathered supplies—two half-full gallon jugs of water, a handful of instant noodle packets, five energy drinks, some crackers, and a bag of rice none of them had time to cook. Rafe distributed what people could carry without slowing themselves down.
+
+“We head south,” Jun said, pointing beyond the buildings. “If the rumors are true, the coast is our best shot. Evac ships, maybe military.”
+
+“Rumors,” Marco said, tightening the strap of his backpack. “We’re betting everything on rumors.”
+
+“What else do we have?” Nina replied.
+
+The silence that settled was its own answer.
+
+One by one, they descended the stairs, stepping over the dried blood stains near the entrance. The barricade was dismantled enough for them to slip through, and as the front door creaked open, every muscle in the group tensed.
+
+The air outside smelled like smoke, seawater carried from the river, and something sickly-sweet that stuck to the back of the throat. Rafe scanned the road—cars overturned, debris scattered, a tricycle smashed against a wall, foundations of small fires still smoldering.
+
+But no horde.
+
+Not yet.
+
+He motioned for the group to move.
+
+The city greeted them with a silence that felt like the pause between thunderclaps.
+
+They kept low, weaving between abandoned vehicles. Jun kept to the front, scanning intersections. Rafe stayed in the middle to keep an eye on the younger survivors and those who looked ready to faint. Nina took the rear.
+
+Every few minutes, they heard something in the distance—screeching, metal clanging, a single scream abruptly cut short.
+
+Rafe swallowed hard each time.
+
+After nearly an hour, they turned onto a wide avenue leading toward the expressway. The sun had fully risen, illuminating the chaos in uncompromising detail. A jeepney lay sideways in the street, windows shattered. Three bodies—heavily decomposed or mutilated—were slumped against it. Rafe forced himself not to look at their faces.
+
+“Keep moving,” he murmured.
+
+No one responded. That was fine. Silence meant they were listening.
+
+They took a narrow side street to avoid a cluster of infected lingering near an abandoned police car. As they approached a row of wrecked vehicles blocking the road, a faint sound drifted from the other side.
+
+Crying.
+
+A child’s crying.
+
+The group froze.
+
+Jun raised a closed fist—the signal to stop.
+
+Everyone crouched instinctively. Hearts pounded in unison.
+
+The crying was soft. Trembling. Not the sharp, dramatic wail of a tantrum. This was the sound of someone exhausted from screaming and now clinging to the last scraps of strength.
+
+Rafe met Jun’s eyes.
+
+“I’ll check,” Jun whispered.
+
+“No,” Rafe said. “We check together. But quiet.”
+
+They advanced slowly, flanking the wall of wrecked cars. Rafe peeked through a broken window.
+
+An overturned van lay on its side, door half-crushed. A child was curled underneath it in a narrow pocket of space—small, dirty, trembling. Her face streaked with dried tears. She clutched a stuffed rabbit whose ear was hanging by a thread.
+
+Beside her, two bodies lay still. A man and a woman. Adults. Likely her parents.
+
+The girl’s sobs were almost silent now, like she had learned quietness out of necessity.
+
+Rafe’s chest tightened.
+
+He motioned to Nina, who approached with slow, deliberate steps.
+
+“Hey,” Rafe whispered softly, leaning down just enough for the girl to see a face instead of a silhouette. “It’s okay. We’re not going to hurt you.”
+
+The girl recoiled deeper into the hollow under the van.
+
+“Please… don’t make me go out,” she whispered back, voice hoarse. “They’re still here.”
+
+Rafe scanned the immediate area. No infected in sight, but the silence carried a tension he didn’t trust.
+
+“What’s your name?” Nina asked gently.
+
+“M-Mila,” the girl whispered.
+
+“How old are you, Mila?” Rafe asked.
+
+“Ten.”
+
+“You’re safe now,” Nina said. “We’re going to get you out.”
+
+Mila’s lip trembled. “They killed my mama… and papa… They—”
+
+She choked on the words. Nina reached a hand through the gap, palm up, patient, reassuring.
+
+Mila hesitated—then placed her shaking hand onto Nina’s.
+
+The moment Nina tugged her free, a metallic clang echoed from deeper inside the street.
+
+Everyone froze.
+
+Mila’s pupils widened with terror. “They’re coming.”
+
+Rafe didn’t need more warning.
+
+“Infected,” Jun hissed.
+
+The group scrambled backward as three figures emerged from behind a cluster of parked cars. Their movements were erratic but purposeful, jerky yet determined. Blood darkened their mouths and chests. Their eyes weren’t empty—they were hunting.
+
+“Move!” Rafe shouted.
+
+Jun swung his metal bar, smashing it against the hood of a nearby car to draw the attention of the infected away from Mila. The creatures screeched and lunged toward him.
+
+The survivors fled, Rafe gripping Mila with one arm as she clung to him like a lifeline. Marco and the others grabbed whatever objects they could to block the infected’s path—plastic crates, shattered signs, even chunks of concrete.
+
+But the infected were fast.
+
+Too fast.
+
+One leapt over a car hood, claws scraping the metal. Jun delivered a crushing blow to its head, sending it sprawling. Another tackled Liza, knocking her to the ground. Rafe pivoted, pulling Mila behind him as he lunged forward—
+
+Nina grabbed the creature’s hair from behind and yanked it backward. Rafe struck the infected’s jaw with a broken plank. The blow cracked bone; the creature spasmed and fell still.
+
+The third infected sprinted toward the group, shrieking with desperate energy. Marco threw a metal water bottle at its head, buying a second of hesitation before Jun stepped in, delivering a brutal downswing of the bar that crushed the creature’s skull.
+
+Silence followed.
+
+Chest-heaving, sweat-soaked, shaking silence.
+
+Rafe knelt to Mila’s level. “You’re safe.”
+
+She nodded, though her eyes darted in every direction.
+
+The survivors gathered around, shaken but intact—Liza bruised, Jun panting, Marco kneeling with hands on his knees.
+
+Nina placed a comforting hand on Mila’s back. “Do you have other family? Anyone else you were with?”
+
+Mila shook her head slowly. Tears welled again. “Just Mama… Papa… They tried to hide me. They told me not to make noise. Not to move… even if I wanted to shout.”
+
+Rafe swallowed thickly.
+
+Children shouldn’t know fear like this. Shouldn’t have to make promises like that.
+
+“You stay with us now,” he said. “We won’t leave you.”
+
+Mila nodded, clutching her stuffed rabbit. She said nothing else.
+
+The group reorganized, shaken but resolute. If they had doubted their direction before, Mila’s rescue erased hesitation. Staying in the city meant certain death. They needed distance. They needed space.
+
+They needed the coast.
+
+Word spread among the survivors that some people had seen boats departing from Batangas earlier that morning—military, civilian, unclear. Rumors claimed some were evacuation ships ferrying survivors to a safe zone.
+
+Rafe didn’t trust rumors. But he trusted the alternative even less.
+
+They left the city limits by late afternoon, slipping through cracks of abandoned side streets, always moving quietly, always fearfully. Mila held Rafe’s hand the entire time, silently matching his pace.
+
+As they approached the overpass leading to the SLEX highway, they encountered clusters of civilians heading the same direction—families, loners, small groups, all with the same hollowed-out expressions.
+
+A man with a backpack muttered as they passed, “It’s everywhere. Cebu. Davao. Hong Kong. Singapore. The news went out last night—just before the blackout. They said it’s global.”
+
+Rafe’s stomach twisted. If the infection was global, then evacuation ships might be more fantasy than hope.
+
+But he didn’t have the luxury of despair. Mila needed him steady. The group needed a direction.
+
+He couldn’t give them certainty.
+
+But he could give them movement.
+
+As night approached, they reached the entrance of the expressway. Traffic was frozen—thousands of vehicles trapped in an unmoving line like a fossilized river. Some cars were burned out. Others covered in dried blood. The stench of decay seeped into the warm air.
+
+Infected roamed the edges of the highway, twitching, sniffing, reacting to footsteps, shadows, breaths.
+
+Rafe tightened his grip on Mila.
+
+“We climb,” Jun whispered, pointing at the concrete barrier dividing the expressway from an embankment.
+
+Nina nodded. “We keep off the main road. Too exposed.”
+
+Rafe helped Mila climb over the barrier, then followed. The group moved single-file down a narrow service path parallel to the expressway. It was safer, quieter.
+
+Above them, the abandoned highway stretched endlessly—cars filled with memories, with lives that had tried to flee too late.
+
+Mila tugged at Rafe’s sleeve. “Will the boats wait for us?”
+
+Rafe studied her face. Her fear. Her hope.
+Then he made himself smile.
+
+“They’ll wait,” he said softly.
+
+He didn’t know if it was true.
+
+But he knew it was necessary.
+
+The path ahead was long, dangerous, and filled with unknown horrors.
+
+But they walked it anyway—together, carrying fear, carrying hope, carrying the small girl who now depended on them.
+
+As they disappeared deeper along the edge of the expressway, the city behind them burned slowly, the sky painted with the smoke of a world collapsing.
+
+They didn’t look back.
+
+Looking back meant seeing everything they had lost.
+
+Looking forward meant imagining the faint possibility of something they could still save.
+
+And so they walked toward the coast—toward a rumor, toward a possibility, toward a future that might not exist.
+
+But movement was survival.
+
+And survival was all they had.
+
+
+Chapter 4: The Highway of Graves
+
+The SLEX yawned before them like a bone-white scar. Where, in another life, cars had flowed like silver fish, now copper-brown rusted hulks lay scattered along the asphalt, their windows blacked with soot, their doors gaping open like wounds. The midday sun beat on the survivors’ shoulders, relentless and indifferent. Heat rose from the highway in wavering ribbons that bent the air into mirages—pools of water that weren’t there, a promise of shade always five steps ahead.
+
+They moved single-file along the service road, wary as hunters. The ruined expressway was a corridor of abandoned lives: a child’s sneaker half-buried in debris, a baby seat twisted against the guardrail, a roadside vendor’s umbrella collapsed into a crimson heap. The smell of engine oil mixed with the thick sweetness of decay. Each ruined vehicle was a story; each window a frozen tableau of panic.
+
+Rafe kept his hand on Mila’s small shoulder, reassuring her by pressure rather than words. She’d fallen silent after the attack near the overturned van; her eyes were wide and bloodshot from crying, and she flinched at every sudden sound. If fear had a sound, her chest made it whenever someone brushed against her. Rafe felt the child’s heartbeat under his palm and let it steady his own.
+
+Nina walked behind him, eyes cold and scanning. Liza stayed close to her mother and son—Miriam still clutched her boy so fiercely it looked like she was trying to fold him into herself. Beth, the florist, carried a small satchel with a few stems of dried flowers oddly resilient against the ruin. Marco kept checking the horizon, restless as a caged animal. Jun moved with quiet efficiency at the front, the metal bar slung over his shoulder like a staff, like a promise.
+
+They had agreed to the highway route that morning because it was direct, because the SLEX led them out of the city in a way that smaller roads did not. It would be faster—if the road was passable. It was also exposed, and exposure invited risk. But the rumors of ships waiting at the Batangas port burnt like a beacon. People moved toward beacons when nothing else made sense.
+
+Halfway along the long ribbon of concrete, the highway opened into an area where the vehicles had been left in great, disordered heaves—a traffic jam fossilized in the heat. The survivors walked in a careful arc around the worst of it, eyes flitting to the perimeters. That was when Rafe saw them: clusters.
+
+At first they looked like statues. A group of bodies huddled together, piled against a sound barrier with their heads bowed as if in prayer. Another cluster lay still on a overturned bus, limbs interlocked. Some clung to metal posts. They were motionless in the way of sleep, not the twitching, jerky gestures the infected had shown before. Their skin had the waxen, mottled sheen of the dead, lips caked with dust. The look of them was so unnatural—so rehearsed—that Rafe felt the hair on his arms stand up.
+
+“Don’t make a sound,” Jun breathed.
+
+They moved like thieves, and the highway rewarded them with eerie silence. The clusters remained statues. The survivors walked past within arm’s length and no one stirred. The lack of motion was worse than movement; it implied a kind of waiting. Waiting for noise. Waiting for provocation.
+
+Rafe remembered how the creatures had responded to the taxi’s horn, to shouting in the market. They were attracted to sudden disruptions. They hunted by sound. Here on the highway, the clusters seemed to be a strategy: dormant until there was something to chase. It made sense in a terrible, efficient way—less energy wasted, better chance of catching prey off-guard.
+
+They passed a family sedan with its trunk open and luggage scattered. A shattered baby mirror dangled from the rearview, swinging slightly in the breeze—the only movement in a gathered field of stillness. The boy Miriam clutched to her chest started to whimper when a cowled breeze shook a loose plastic bag and made it skitter.
+
+Rafe placed a hand over the boy’s mouth. Soft fingers on warm cheek. “Shh,” he whispered. The boy’s eyelids fluttered, recognizing the cadence of a voice that soothed more than commanded.
+
+Their progress was slow and steady until the mistake happened. It was small—insignificant—and that’s what made it catastrophic.
+
+Victor, the man who had panicked in the stairwell the first night, had been quiet since then. He’d kept his head down, telling jokes that didn’t reach his eyes. Today he walked at the back near Liza and Miriam, the weight of his earlier humiliation heavy in his shoulders. He was jittery, hands constantly working at something in his pockets. Rafe’s judgement labeled him harmless distraction.
+
+They had to move past a block of cars where the guardrail bent inward. A rusted pickup lay on its side and, at its side, someone had propped a dangling length of chain and a metal pipe—probably a tool from when people had abandoned their vehicles in a hurry. The pipe was precariously balanced.
+
+Victor stumbled, a foot catching on a tire. He didn’t fall—he recovered with a cursed breath—but his elbow struck the pipe. The pipe, loosely resting, clanged the metal with a clear, echoing tone.
+
+Time telescoped.
+
+The sound—single, bright—burst into the heat like a flare. Rafe felt the blood in his ears thud as if the sound had become a separate entity. Heads turned. For a heartbeat everything held: the group, the still bodies, the scorching sun. Then, as if a switch had been flipped, the dormant nearby infected flexed.
+
+A man folded onto the ground in front of them. For a moment he simply shuddered, like someone waking from a nap, then his neck snapped up and he screamed—a sound made of teeth and hunger. His limbs moved with a terrible coordination, reaching, snatching. Others in the cluster followed. A chain reaction—one followed another until the pile of statues erupted into motion.
+
+“Run!” Jun shouted.
+
+But “run” was too easy a command. The highway didn’t leave space for running. Metal, glass, and bodies created a funnel that funneled them toward the sound. The first infected lunged out of the mass with animal speed and leapt at the nearest person—Mila, whose small chest heaved as she tried to throw herself away.
+
+Rafe’s hand tightened on her shoulder and then his mind took a shortcut to action. Marco—who had been stupidly light-hearted until then—moved first. He shoved a trash can in the infected’s path, then, before it could react, he drove his shoulder into the thing’s chest, flipping it like a wrestler. The infected flopped and, for a blazing second, Marco’s face looked like a man willing to cut out his own heart to save someone else. He grabbed Mila, threw her toward Rafe, pushed her into a narrow gap between two cars.
+
+The infected that had been on Mila’s heels latched onto Marco. Teeth, tearing, blood—Marco gave a strangled cry that smashed through the air like a bell. He flailed, but the infected’s grip was finding purchase. Marco’s left arm jerked; his hand came away bloody. He gurgled and tried to shove the creature off with blood-slick palms. He was at the center of a gulf of sound now—struggles, calls, the spreading rustle of panic—and he did not look back once to see who stood to help.
+
+Jun was there in a breath. He swung his metal bar and struck the infected in the head so hard that the creature recoiled, stumbling backward. A second infected, drawn now by the commotion, came charging. Jun hit it as well. The blows landed true, but every impact seemed partial against the relentless, hungry animation.
+
+Rafe, holding Mila, felt his stomach drop into a cold well. He wanted to sprint, wanted to yank Marco to safety, but the clanging from Victor’s stumble had stirred more than those nearby. The highway seemed to unspool life from the parking wrecks, and every disrupted cluster convulsed into motion. The survivors’ careful arc tightened into chaos. More infected poured out, their limbs knotting and untangling with terrible efficiency.
+
+Liza screamed as someone was grabbed behind her; Miriam pushed her boy away and dove, scraping her palms on gravel. Beth, brandishing a length of pipe, swung with the force of someone defending a child’s memory, and the blow sent one creature sprawling but it did not die. Its eyes were blank, but its hands still clenched.
+
+“Move! Move!” Rafe shouted, voice splitting.
+
+Jun fought like a man with no other recourse—driving, swinging, pushing back to clear a path. He shouted orders, precise and staccato: “Left! Left! Push through the gap!” His bar rose and fell like a metronome of violence. He reached Marco and wrenched the infected off him with a shout; Marco collapsed, coughing, blood streaking his face. But in the melee a second creature lunged from behind and sank its teeth into Marco’s throat. Marco’s cry was ragged; his eyes found Rafe’s for an instant, and in that instant there was a look of apology and of fierce, almost childish determination. He clutched at Rafe’s arm as if pleading, as if begging permission to be allowed to keep a secret.
+
+Rafe wanted to be solemn, to say something that would give Marco peace. He only managed, “Go! Run!” before Marco’s body convulsed and the infected’s maw closed around him. By the time Jun struck the creature's skull with his bar, the thing had already done its work.
+
+Marco was gone in a wet, ridiculous instant that left an ugly silence in its wake. The hole it made was raw.
+
+Jun roared, a sound like a steam release. He hammered at the swarm with a brutal intensity, his bar cracking skulls in a rhythm that was almost lyrical in its efficiency. He turned to the group and barked, “Get her—Mila! Nina, take Mila! Move!”
+
+Nina grabbed the girl and pulled her close. Rafe’s hands were full of trembling; he could taste metal. There was more behind them—another thread of motion in the rear—a fresh tide of infected moving like they’d been released from nets.
+
+They moved, sprinting in short bursts through the chaos, grabbing narrow corridors between vehicles. A car horn somewhere bleated endlessly thanks to a snapped cable, and the sound lanced through the scene like a siren. Every clanging metal, every shoe scuff, every human shout became a beacon.
+
+Rafe turned to see Jun fighting still. The man’s shirt was shredded; his face had a long, bloody gash across the jaw. He swung the bar with the last of his strength, making room even as creatures nipped at his heels. One bounded over to him, snapped, and bit into Jun’s thigh. Jun cursed and struck it off, but another came, and another. Blood fountained bright and hot. In the flurry Jun’s footing slipped; he fell. A creature latched onto his shoulder, teeth crunching like poor men biting into fruit. Jun pushed, shoved, grunted, and with a twist of his torso he lifted the infected up and off. He rolled, scrambled, and pushed himself between two cars, using his weight to wedge them together and create a temporary barrier.
+
+The survivors surged through the gap Jun had made. Rafe grabbed Mila’s hand, felt her tiny fingers curl tight around his. He looked back. Jun was still there, using his bar like an anchor, driving the infected back with whatever force he had left. The man’s breath came in shallow, ragged gasps. He’d taken multiple hits now; blood slicked his hair.
+
+“Rafe!” Jun snarled, voice raw. “Go!”
+
+Rafe’s lungs clawed for air thick with dust and the metallic tang of blood. “We can’t leave him—”
+
+“You have to,” Jun spat. He struck at a thing that had latched onto his chest and, with a sound like a collapsing bridge, it went still. Jun’s eyes met Rafe’s, and for a long, heavy second there was an exchange that needed no words. It was the trade of everyone who has made decisions in a world that stopped making sense: you run so we might live.
+
+Rafe’s legs felt like they had cotton in them. Guilt rose like bile. He wanted to go back—wanted to tear down barricades, to pull Jun up and carry him—but the swarm pressed like a physical tide. If he went back, he imagined the infected would envelop them both in a wet, chomping mass and the group would be finished.
+
+“Go!” Jun repeated, voice thin. “Take Mila…”
+
+Nina’s face twisted with grief that tried to wear the mask of obedience. She had been a rock until now, a measured presence at Rafe’s side. Now she did not move. She was resisting the command like a magnet resisting a hand.
+
+Rafe grabbed her arm and pulled. “Now.”
+
+They ran. The group crossed the field of wrecks and shrapnel, sprinting for the flat stretch beyond a derelict bus shelter. They didn’t stop until their feet were burning on a patch of relatively clear asphalt and their lungs had exhausted themselves into sourness.
+
+When they dared to look back, Jun was nowhere in the dim of the crushers and twisted metal. There was only the sound: a wet thudding, the rasping of bodies, the last, desperate noise of someone fighting until they could not fight anymore.
+
+The loss hit like a physical blow. Marco had been bright-eyed in a way that made it easy to like him. He had been brash and vulgar and kind in the little ways that mattered. Jun—steady, practical Jun—had been a protector. They were gone. The air around Rafe seemed too thin.
+
+Miriam sobbed and folded inward, her body wracked with grief. Liza held her son, rocking him with small, wordless sounds. Beth cried silently, wiping her face with the loose hem of her sleeve as if embarrassed by her tears. Victor crouched, face in his hands, the muttered words of apology failing him.
+
+Nina’s jaw clenched with a hardness that made Rafe’s chest hurt. He could see the calculus forming in the faces around him—the decision that would now shape their future. They had lost two people on the highway in a single mistake. Their supplies were thinner. Their numbers were fewer. The coast—if it existed—was further. Retreat seemed, to some, the only prudent course. Go back to the city, fortify a block, try to find radios, search for more survivors. There was safety in consolidation, in staying with numbers. But staying could also mean being trapped, surrounded, waiting for another mistake.
+
+“Maybe we should go back,” Victor said at last, voice raw. “There’s more people there. More help.”
+
+“No,” Nina answered, and her voice cut clean. “Back there, the infected will only spread. We saw that. We saw how they coordinate. The highway is the fastest route left. We have to push for the coast.”
+
+“Do we even know the boats are real?” Miriam’s voice trembled but was firm. “We risk everything for a rumor.”
+
+Rafe felt both arguments like hands pressing different parts of his chest. He thought of Jun’s eyes—the way Jun had given them permission to run. He imagined Jun alone, bitten and fighting until he stopped, and he heard the raw ring of that man’s body falling into silence.
+
+For a brief, monstrous moment, Rafe wished the decision could be made by someone else. But he had been giving orders all along, because he knew the small hierarchies people clung to for sanity. Leadership was not a role he had chosen, but it had found him anyway.
+
+He thought of Mila’s face, small and frightened and still holding that shredded rabbit. He thought of the child’s heartbeat beneath his palm on that long ribbon of highway. He thought of Marco’s look—the apology and the grin—and the way Jun had forced himself into the breach to buy them time.
+
+If they retreated, they might live longer. If they pressed on, they might die trying to reach a thin hope. It was the calculus everyone in their shoes had to make: the small chance of a good end versus the longer, grayer certainty of suffering.
+
+Rafe swallowed. He felt the line between the two possibilities like a blade.
+
+“We go on,” he said finally, voice quiet but absolute. “Jun gave us that choice with his life. Marco too. They bought us time. We don’t owe them a body in return. We owe them living—do you understand?”
+
+Silence answered. The words were not empty; they were a tether.
+
+Nina’s shoulders sagged and then squared. “Keep moving. At dusk we find cover off the road. We don’t stop until then.”
+
+Miriam’s hand tightened in her son’s hair. Victor uncrossed and recrossed his legs like someone waking from paralysis. The group gathered their resolve as people gather blankets in a sudden cold.
+
+They walked again, each step stitched with grief. As the sun slid westward and the highway unfurled ahead of them into a smear of gold, they carried the dead like a new weight. Mila’s small hand stayed in Rafe’s. He felt the child’s fingers flex in time with his own, and he promised, in a quiet place that felt like prayer, that he would keep her.
+
+The survivors did not talk much. Words felt cheap when set against the price they had paid. Instead, they walked, following a rumor of ships and the stubborn, human refusal to stop moving. The highway behind them was a graveyard; the highway ahead was a possibility, narrow and uncertain.
+
+Night would come again. They would have to find shelter, to tend wounds, to grieve in stolen moments. But for now they had to keep moving. Jun had given them that. Marco’s face, already fading into the pattern of things they had lost, lingered in Rafe’s mind. He tried to memorize the shape of both men—the set of Jun’s jaw, Marco’s crooked smile—so he could carry them forward in memory if nothing else.
+
+At the very edge of the SLEX, where the highway bent and dropped toward smaller, rural roads that led toward Batangas, they paused for a last look back. The sun was a smear behind them, a hard, low coin in the sky. There were other figures on the horizon—clusters of survivors, tiny as ants, moving like them toward the same rumor. They were not alone in their migration.
+
+Rafe exhaled. The decision had been made. The knowledge was a kind of cold fire in his chest. He had chosen forward. He had chosen the coast and the rumor and the possibility that somewhere there would be a ship with room for Mila and for the rest of them.
+
+As they set off down the road that would wind through smaller towns and toward the sea, Rafe kept his hand on the child’s shoulder. When her hand tightened around his, he squeezed back. The road ahead was long, and they had already paid too high a price for every step. But they would go on. They had to. And in the quiet of the wheels and the city fading behind them, he promised he would remember the names of those who had fallen—Marco and Jun—sharp as a stone tucked in the heart.
+
+They walked into the heat, into the ache, into the thin, uncertain hope of the coast.
+
+
+Chapter 5: The Checkpoint
+
+The road narrowed as they left the concrete veins of the SLEX and descended into the smaller arteries of the southern provinces, where farmland reclaimed the edges of the asphalt and palm trees shimmered in the afternoon heat. A pale haze blurred the horizon, the kind of stillness that came before storms—quiet, uncanny, breath held.
+
+By late afternoon, the group reached the first sign of human structure they’d seen since the highway of graves: a cluster of sandbags piled around a fork in the road, flanked by two armored vehicles with the insignia half-scraped off. A makeshift gate of welded metal bars blocked the path, guarded by soldiers wearing stained fatigues and thousand-yard stares.
+
+The survivors slowed. Rafe raised a hand, signaling the group to halt and stay behind him. His throat tightened—relief mixed with caution. Surviving this long had taught him that salvation could easily be a mirage.
+
+A soldier lifted his rifle and called out, “Identify yourselves!”
+
+His voice cracked—out of exhaustion, not authority.
+
+Rafe stepped forward, palms raised. “Civilians. We’re headed toward Batangas. We heard there were evacuation ships.”
+
+A pause. The soldiers exchanged glances too weighted for optimism.
+
+“Approach slowly,” the soldier said. “Hands visible.”
+
+They did. One by one, they moved toward the checkpoint, sweat streaking their faces, dirt caked into their clothes, eyes sagging from nights without real sleep.
+
+As they approached, the soldiers’ appearances sharpened into clearer detail: sunken cheeks, uniforms torn at the sleeves, boots scuffed beyond recognition. One soldier leaned heavily on a concrete slab, clutching a bandaged arm. Another sat on an ammo crate, staring blankly at the ground as though listening to something no one else could hear.
+
+When the survivors reached the gate, the soldier in charge—a young man whose rank insignia had been ripped off—sighed heavily. “You’re the first group we’ve seen alive today.”
+
+“Not many left behind us,” Jun might’ve said, if Jun were still alive. But the silence that followed was defined by those no longer walking with them.
+
+Nina stepped forward. “What happened here?”
+
+The soldier’s jaw flexed. “We’re… holding the line, ma’am. What’s left of it.”
+
+Holding the line. Rafe wondered how many times they’d been ordered to say that, long after the line was dust.
+
+Behind the weary soldiers, the checkpoint sprawled like a wounded beast: tents sagging inward, generators running on the last of their fuel, a stack of empty ammunition crates. A map lay pinned to a folding table, its edges curled from humidity, marked with circles that grew tighter the closer they were to Manila. Red circles. Crossed-out circles. Then an area simply blacked out entirely.
+
+Rafe scanned the perimeter. No civilians. No families. Just soldiers—and the unmistakable smell of decay.
+
+“Where’s the rest of your unit?” Rafe asked.
+
+The soldier in charge—Corporal Dizon, according to his half-ripped name patch—shifted his stance. His eyes flicked to the far tent, the one guarded by two soldiers who looked more alert than the rest.
+
+“We’re… it,” he said at last. “Command stopped responding yesterday. Regional HQ too. Our orders are to hold this position until relieved.” He gave a hollow laugh. “Relief isn’t coming.”
+
+Mila clung to Rafe’s side, peering out from behind him. A soldier noticed her and frowned, his expression softening.
+
+“You brought a child through that?” he asked.
+
+Rafe didn’t know how to answer.
+
+Beth approached the corporal. “Are the evacuation ships real?”
+
+Dizon hesitated, his eyes drifting to the map. “They were. Yesterday. But the port fell overnight. The ships left early. Took whoever was already there.”
+
+A wave of despair rippled through the group. Miriam sat on a sandbag and buried her face in her hands. Liza hugged her son so tightly he squeaked. Marco wasn’t here to make a joke to defuse the panic. Jun wasn’t here to offer a silent plan.
+
+Rafe didn’t know how to fill the void their absence left.
+
+Nina, steadier than most, cleared her throat. “So that’s it? No hope?”
+
+Dizon rubbed his temples. “Hope is above my rank, ma’am.”
+
+Another soldier emerged from the tent in the back—this one wearing a lieutenant’s insignia still intact. She was younger than Rafe expected, maybe early thirties, with sharp features hardened by fatigue. Her uniform was cleaner than the others’, though not by much. Bandages wrapped her left wrist. Her hair was tied back in a tight braid, frizzy from heat. She moved with controlled urgency.
+
+“Corporal, report.”
+
+Dizon snapped to attention with muscle memory more than anything. “Civilians, Lieutenant. Seven total. Heading to Batangas.”
+
+The lieutenant’s gaze ran over the survivors with hawk-like precision. She had the kind of presence that didn’t have to announce authority—it radiated in a tight, disciplined line.
+
+“I’m Lieutenant Sabine Reyes,” she said. “What you saw on the highway?”
+
+Rafe nodded once. “We lost two.”
+
+Her eyes softened—only a fraction. Then she nodded. “I’m sorry. But you made it farther than most. We’ve had... very few come through alive in the last twenty-four hours.”
+
+Mila pressed closer to Rafe’s hip, half-hiding behind him. Sabine’s expression changed imperceptibly—something between empathy and calculation. She crouched so she was eye-level with the girl.
+
+“What’s your name?”
+
+“M-Mila.”
+
+Sabine’s voice gentled a degree. “You’re brave, Mila. You made it farther than trained soldiers.”
+
+Mila blinked, processing the weight of the words. She didn’t speak.
+
+Sabine stood again. “We’ll give you water, food, and let you rest. But you can’t stay long.”
+
+“Why not?” Nina asked.
+
+Sabine hesitated—but only for a moment.
+
+Then came the first scream.
+
+It erupted from the far end of the checkpoint. A soldier stumbled from behind a barricade, firing wildly. The scream was not human. It was too shrill, too layered—like several voices screaming at once.
+
+Rafe flinched. Mila whimpered.
+
+Then the creature burst into view.
+
+It was infected, but not like the others. This one moved with terrifying precision—each step placed cleanly, each movement purposeful. Its body looked leaner, muscles corded under mottled skin. Its eyes were almost entirely black, reflecting the sunlight like polished stone. It didn’t stagger or twitch. It ran.
+
+Fast.
+
+Sabine’s gun was already raised.
+
+“Variant!” she shouted.
+
+Before Rafe could process the word, the creature sprinted toward the screaming soldier and leapt—ten, maybe twelve feet—landing on him with crushing force. Blood sprayed in a sharp arc. The soldier didn’t even manage another scream.
+
+Chaos erupted.
+
+More soldiers shouted. Gunfire erupted. The creature shrieked, a horrible sound that vibrated through the ribcage. It darted sideways, avoiding bullets with unnatural reflexes. Rafe grabbed Mila and pulled her behind a sandbag wall, his heart slamming against his ribs.
+
+“What is *that*?!” Beth cried.
+
+“A new strain,” Sabine barked, firing two controlled shots. “They’re evolving.”
+
+Nina paled. “Evolving?”
+
+The creature lunged again, this time toward the barricade near the tent. Another soldier tackled it, sacrificing himself in the process. The creature tore into him with horrifying speed.
+
+“I thought they were brain-dead!” Miriam sobbed. “Mindless!”
+
+“They were!” Dizon shouted back. “Yesterday!”
+
+The checkpoint dissolved into pandemonium. Soldiers scrambled to hold positions, but exhaustion and panic eroded discipline. Several broke formation, firing erratically; others tried to drag the wounded back.
+
+Sabine moved like a machine, her shots clean, her commands sharp. But even she couldn’t stop the spread.
+
+From the treeline beyond the road came more shrieks.
+
+Rafe turned—and his stomach dropped.
+
+Several creatures emerged from the bushes.
+
+Not shambling. Running.
+
+Coordinated.
+
+Three flanked right. Two flanked left. One sprinted directly toward the barricade.
+
+“Oh God,” Nina whispered. “They’re hunting in formation.”
+
+Rafe acted without thinking.
+
+“Move! Everyone, inside the armored truck! Now!”
+
+The survivors ran, weaving between sandbags and wounded soldiers. Sabine fired to cover them, then grabbed Dizon by the arm.
+
+“Fall back to the vehicle line! MOVE!”
+
+The soldiers obeyed what remained of their training. The infected surged. Gunfire cracked against the metal barricades. One variant took a bullet to the chest and barely flinched.
+
+Rafe threw open the back of the armored transport. Mila scrambled inside followed by Miriam, Liza, Beth, and the others. Nina shoved at the latch, helping Rafe get the last of them in.
+
+“Sabine!” Rafe shouted.
+
+The lieutenant sprinted toward them, Dizon right behind her. A creature lunged from the side, but Sabine pivoted and shot it point-blank in the eye. The body collapsed, sliding across the dirt.
+
+She vaulted into the truck, grabbed Rafe’s shirt collar, and yanked him in with surprising strength. Dizon jumped in next, slamming the door shut.
+
+Something slammed into the metal from outside, denting the steel. The survivors screamed.
+
+“We have to go!” Nina yelled.
+
+Sabine climbed into the front, hands shaking only slightly as she jammed the key forward. “Hold on!”
+
+The engine roared alive.
+
+Outside, infected swarmed the checkpoint, overwhelming the remaining soldiers. Gunfire and screams merged into one terrible, violent chorus. A variant climbed onto the hood just as Sabine hit the accelerator. The impact flung the creature aside.
+
+The armored truck barreled through the barricade, wood splintering around them. Rafe held Mila close as the vehicle bounced violently across the uneven road. The screams faded only after distance replaced clarity with ringing silence.
+
+Minutes later, the checkpoint was out of sight.
+
+Sabine drove until her arms trembled, until the gunshots were ghosts, until even the variants faded into the periphery. Only then did she slow, pulling the truck to a stop under a grove of banyan trees.
+
+Inside, the survivors sat rigid, stunned, listening to their own breath.
+
+Dizon sank against the wall of the truck, his face gray. “We’re dead. The whole line… the whole damn line is gone.”
+
+No one disagreed.
+
+Sabine lowered her forehead to the steering wheel, breath heavy. She didn’t cry. She didn’t panic. She simply let a silence settle over her like a weight she hadn’t earned but was forced to carry.
+
+After a long moment, Rafe finally spoke.
+
+“What did you mean earlier?” he asked. “Variant?”
+
+Sabine lifted her head. Her eyes were sharp again. Focused. “A new strain. Faster. Deadlier. Coordinated.”
+
+“How?” Nina asked.
+
+Sabine hesitated, then reached into her uniform. She pulled out a sealed white envelope with a red stamp:
+
+**CLASSIFIED — EYES ONLY**
+**PHILIPPINE ARMED FORCES BIOHAZARD DIVISION**
+
+Everyone stared.
+
+Rafe’s pulse kicked up.
+
+“What is that?” he asked.
+
+Sabine held it tightly, her jaw set.
+
+“Intel,” she said. “On the origin of the outbreak.”
+
+Rafe felt the truck shrink around him.
+
+“The infection…” Sabine continued, “didn’t come from overseas. It didn’t start in Manila.”
+
+She looked each of them in the eye.
+
+“It started somewhere in Luzon. Somewhere off-grid. And whatever they created… it’s getting worse.”
+
+Silence followed, thick as humidity.
+
+Sabine tucked the envelope back inside her vest. “I was ordered to get this to a government bunker in Tanay. Before my unit was wiped out.”
+
+Rafe swallowed. “Why us? Why take us?”
+
+Sabine’s stare was unflinching. “Because you’re alive. And because I don’t intend to fail my mission.”
+
+She exhaled slowly, then added:
+
+“And because I don’t think this outbreak is an accident.”
+
+Rafe felt the road beneath them tilt—not literally, but the world itself shifting under the weight of new danger.
+
+They had faced infected before—fast, slow, ravenous, terrifying. But now there was something else.
+
+A purpose.
+
+And Sabine Reyes had dragged them straight into the center of it.
+
+
+Chapter 6: Sabine's Secret
+
+The armored truck groaned as it settled into the soil beneath the banyan trees, its engine ticking faintly as it cooled. Outside, cicadas hissed in waves—nature reclaiming the silence that gunfire had shattered minutes before. The metallic scent of spent ammunition clung to their clothes, mingled with sweat and the faint copper tang of fear. Inside the cramped interior, the survivors sat pressed against one another, their breaths shallow, their minds still running even though the truck had stopped.
+
+Rafe kept an arm around Mila, who trembled but didn’t cry. Her fingers clutched his shirt as though afraid he might vanish if she loosened her grip even slightly. Rafe’s own hands shook, though he kept them steady against her back. He had seen death before—Jun, Marco, the vendor in Riverside—but the variant’s movements, that terrifying precision, replayed in his mind with the clarity of a waking nightmare.
+
+Miriam wiped her eyes. Liza whispered prayers under her breath. Beth leaned her head against the metal wall, the imprint of fatigue etched deeply into her features. The group looked hollowed out, like something essential had been scraped away.
+
+Sabine Reyes remained in the driver’s seat, hands braced on the wheel. She breathed slowly, deliberately, as though trying to regulate her pulse by sheer force of will. Eventually she sat upright, rolled her shoulders back, and turned to face them.
+
+“Everyone alive?” she asked.
+
+It wasn’t a rhetorical question. It carried the weight of someone accustomed to checking bodies after a firefight.
+
+Rafe nodded. Nina gave a curt thumbs-up. No one answered verbally—spoken words felt too fragile.
+
+Sabine exhaled. “Good. Then we don’t stop here for long. This truck’s loud. Variants will pick up the sound if they were close enough to follow. We move again soon.”
+
+Mila whispered, “Where?”
+
+Sabine paused.
+
+A long pause.
+
+Rafe could almost hear the gears in her mind turning.
+
+Her gaze landed on him first, then drifted across the others. And then she reached inside her vest and slowly withdrew the sealed envelope with the red classification stamp.
+
+Rafe’s stomach tightened. Whatever was written inside it carried a gravity that had already reshaped their path once today.
+
+“What I’m about to tell you,” Sabine began, voice low, “cannot leave this truck.”
+
+Victor scoffed weakly. “Who’s left to tell?”
+
+Sabine didn’t smile. “Don’t mistake isolation for safety, Mister Galvez. Information is our last weapon. Misuse it, and you kill more than yourself.”
+
+Victor’s smirk withered.
+
+Sabine opened the envelope carefully, sliding out a stack of documents stamped with multiple seals—military, scientific, and some marked only with serial numbers. She held them protectively, thumb pressed against the top page.
+
+“This outbreak didn’t begin overseas, despite what the early news reported. It didn’t start because of imported cargo, or foreign travelers, or tainted food. It started here.”
+
+Nina frowned. “In the Philippines?”
+
+“In Luzon,” Sabine confirmed. “Roughly three months ago.”
+
+Rafe blinked. “But… three months? We only saw the first cases days ago.”
+
+Sabine’s jaw tightened. “Because someone covered it up.”
+
+Silence thickened like fog.
+
+Beth whispered, “Covered it up? Why would—”
+
+“Because it wasn’t a natural virus,” Sabine interrupted quietly. “It was engineered.”
+
+Rafe felt his breath stall.
+
+Miriam gasped softly.
+
+Liza paled.
+
+Sabine continued. “There was a facility somewhere in northern Luzon—mountainous area, off-grid, classified. It wasn’t supposed to exist. No military registry. No DOH oversight. It operated under a private bioengineering contract with unofficial government backing.”
+
+“You’re saying,” Rafe murmured, “that our own government made this?”
+
+“Not officially,” Sabine said. “And not intentionally. The classified briefing I received—just before my unit was torn apart—indicated the initial purpose of the research was cognitive enhancement. Neural augmentation. Something to accelerate decision-making, reaction times, memory processing. A biological stimulant created to… ‘improve’ human capabilities.”
+
+“Like super soldiers,” Victor muttered, voice edged with disbelief.
+
+Sabine nodded tightly. “That’s the idea. But something went wrong. Extremely wrong.”
+
+Rafe leaned forward slightly. “How wrong?”
+
+Sabine slid a photograph across the bench. It showed a man on a medical table—eyes blackened, veins spidering across his skin, jaw unhinged unnaturally. His limbs looked elongated, tendons pulled taut. And the expression on his face…
+
+It wasn’t pain.
+
+It was hunger. Purpose.
+
+“The augmentation,” Sabine said, tapping the photo, “overstimulated the neural pathways responsible for threat detection and motor responses. Subjects became hyper-reactive. Hyper-aggressive. Then everything spiraled. The altered virus—or whatever compound they used—mutated faster than anyone anticipated.”
+
+Nina stared at the picture. “They tried to improve the brain.”
+
+“And instead,” Sabine said grimly, “they woke something else.”
+
+Rafe watched Mila turn her face into his side, unable to look.
+
+Sabine set the photograph aside and pulled out another document. This one was a map—Luzon marked with a large circle around the mountain regions near the Sierra Madre.
+
+“This research facility was breached. We don’t know how. But once the infection escaped containment, the initial team tried to stop the spread quietly. No public alerts. No early lockdowns. They believed they could contain it before anyone noticed.”
+
+“And they failed,” Rafe said.
+
+“Disastrously,” Sabine replied. “By the time higher command knew, weeks had passed. Transmission vectors were already distributing south—via wildlife, water contact, and eventually human carriers.”
+
+Liza swallowed. “Why not warn everyone?”
+
+“Because acknowledging the facility existed,” Sabine said bitterly, “meant acknowledging accountability. So they waited. And by waiting, they doomed us.”
+
+Her words hit like a physical impact.
+
+Rafe stared at the map. “So those… things… were once human test subjects?”
+
+Sabine nodded. “Until the virus mutated. Again and again. The strain we saw at the checkpoint—the variant—is one of the more recent forms. The intel suggests more will evolve.”
+
+Nina whispered, “How many variants?”
+
+“Unknown,” Sabine answered. “The document suggests at least three distinct layers of mutation so far. The variant you saw today is V-3.” She paused. “The initial infected—the ones you escaped on the first day—were V-1.”
+
+Beth covered her mouth. “They’re getting faster.”
+
+“And smarter,” Sabine confirmed. “Coordinated attacks. Pack movement. Strategic targeting. All the things the original ‘enhancement’ was meant to create in human soldiers.”
+
+Rafe felt a cold wave roll through his chest. “What was your mission?”
+
+Sabine took a slow breath. “My unit was tasked with transporting this intel”—she lifted the envelope—“to a government bunker in Tanay.”
+
+“Tanay?” Nina said. “That’s far.”
+
+“It’s one of the few secure facilities still operating. Or… it was, as of yesterday. They have scientists—people who might be able to reverse-engineer the virus. Or at least slow it.”
+
+“And they’re expecting you?” Rafe asked.
+
+Sabine’s eyes darkened. “They were. If the bunker still stands.”
+
+Miriam clutched her boy tighter. “Why tell us this? Why not go alone?”
+
+“Because my unit is gone,” Sabine said quietly. “And because the infected are changing faster than we can adapt. I can’t get to Tanay alone.” She paused. “But with help—numbers, eyes, hands—maybe we stand a chance.”
+
+Rafe felt the survivors shift around him. Anxiety. Confusion. Fear. Hope.
+
+Sabine inhaled deeply. “Before we leave this grove, you need to choose. I won’t force anyone. But you must understand: if we reach Tanay, maybe—*maybe*—we find a way to stop this. Not just survive it. If you continue south toward the coast… you’re looking for evacuation ships that might not exist anymore. And even if they do, they won’t outrun a mutating plague.”
+
+Victor looked between Rafe and Sabine. “We go north—into the mountains—where more infected are likely to be? That’s suicide.”
+
+Nina countered, “Staying on the roads might be suicide too. That checkpoint proved that.”
+
+Beth shook her head. “I just… I wanted the coast. The sea. Something familiar.”
+
+“We all wanted that,” Rafe said softly.
+
+Mila tugged Rafe’s sleeve. Her voice was barely audible. “Will we find a cure there?”
+
+Rafe’s throat tightened. He brushed a strand of hair from her face.
+
+“I don’t know,” he said. “But I think… Sabine believes it’s our best chance.”
+
+Sabine’s eyes flicked toward him—evaluating him, weighing him.
+
+Rafe turned to her fully. “What do we need to do to reach the bunker?”
+
+“Move through the foothills,” she answered. “Avoid highways, stay off known routes. I know a ranger station halfway there. If it hasn’t fallen, we can resupply.”
+
+“And the infected?” Nina asked.
+
+Sabine’s jaw clenched. “We’ll face them. Whether we move north or south, they’ll be there. At least north has a purpose.”
+
+Victor shook his head violently. “I’m not risking my life for some classified guesswork. I’m going to the coast.”
+
+Miriam looked torn. Liza hugged her son, whispering something only he could hear. Beth rubbed the dried flowers she kept tucked into her satchel.
+
+Sabine looked at Rafe. “What about you?”
+
+Rafe felt every life in the truck lean toward him. Every eye. Every survivor whose fate had somehow become tangled with his decisions.
+
+He remembered the highway. Jun’s last look. Marco’s last breath. The way the infected had moved—faster than anything human, deadlier than anything careless.
+
+If variants kept evolving, there would be no outrunning them.
+
+Movement wasn’t enough anymore.
+
+They needed direction.
+
+Purpose.
+
+Maybe even hope.
+
+Rafe inhaled slowly. “We go to Tanay.”
+
+Nina nodded immediately. “I’m with you.”
+
+Beth exhaled shakily. “Me too.”
+
+Miriam looked at her son. “We can’t run forever. I’ll go.”
+
+Liza clenched her jaw. “Fine. Tanay.”
+
+Victor looked around at the sea of agreement, face paling. “…You’re all insane.”
+
+Sabine didn’t pressure him. She simply said, “Stay if you want. But distance won’t protect you long.”
+
+Victor’s eyes darted to Mila—small, scared, clutching Rafe’s shirt—and something in him softened. He cursed under his breath.
+
+“Fine. I’ll go too. But if we die, I blame all of you.”
+
+Nina snorted. “Get in line.”
+
+Sabine folded the documents back into the envelope and secured it inside her vest. Her back straightened, her resolve hardening into something almost tangible.
+
+“We leave in ten minutes,” she said. “Stay quiet. Stay alert. And when we move…” Her eyes turned flinty. “We do not stop. Not unless we have no choice.”
+
+Rafe squeezed Mila gently. She leaned into him, trusting him without question.
+
+Outside, the wind rustled through the banyan trees—gentle, but carrying with it something else. A faint, distant sound.
+
+Not quite a scream.
+
+More like a chorus.
+
+Variants, somewhere out in the hills.
+
+Evolving.
+
+Waiting.
+
+Rafe steadied his breath.
+
+They would go north—toward Sabine’s bunker, toward whatever answers lay buried in mountains and secrecy.
+
+Forward was no longer a direction.
+
+It was survival.
+
+And it was their only chance.
+
+
+Chapter 7: The Abandoned Mall
+
+The provincial mall crouched at the edge of a sleepy town like a wounded animal—its glass facade shattered in places, signage crooked, awnings torn. Inside it smelled of dust, burned wires, and the lingering sweetness of concession-stand popcorn that hadn’t been eaten. Malls, Rafe had always thought, were designed to make people feel small and soft, which was why the empty corridors now felt obscene: rows of stores where mannequins still posed in sunglasses and shirts, small islands of civilization abandoned mid-transaction.
+
+Sabine steered the armored truck into a service lane and killed the engine. The group moved like shadows—furtive, tired, trained-by-distress—to the wide utility entrance. They slipped through a torn service door and spilled into the food court. Fluorescent lights flickered. A cold, stale breeze moved down the concourse.
+
+“Split up. Quick sweep,” Sabine said, tone clipped. “Weapons, lights off except one. Keep voices down. We can use the anchor stores—electronics for a vantage if necessary.”
+
+They had learned the hard rule: the less noise they made, the longer they lived. Rafe felt the muscle memory of it—walk slow, avoid glass, step over broken tiles, listen. Mila clung to his hand and walked close to his hip, eyes wide with an exhaustion that was younger than her age.
+
+Someone had raided the mall in the first frantic days—cabinet doors were pried open, shelves half-empty, dressing rooms swarmed with discarded clothes. But not everyone had taken everything. There were pockets of useable goods: bottled water behind a janitorial closet, boxes of instant coffee in a café, a cart of first-aid supplies stacked near a perfumery.
+
+They split into teams: Sabine and Dizon took the north wing to clear the electronics store and scout the roof. Nina, Beth, and Liza took the center food court and the pharmacy. Rafe and Victor explored the clothing and toy store aisles, looking for anything useful for a moving camp.
+
+The mall’s upper floors held the real prize: an infirmary for the movie-theater complex and, if luck favored them, a small medical office that might still have sterile bandages and antibiotics. Sabine had mentioned a “ranger station” earlier, and Rafe wondered if the mall’s management office might hide a radio or maps. Information was light these days; a map could mean the difference between walking blindly and walking with purpose.
+
+They found the trapped survivors by accident and by noise—the soft rasping of breath, a low moan. It was in the parking garage, behind a collapsed signage board. Two teenagers pressed against a cracked concrete pillar, faces caked with grime, one of them nursing a bleeding arm bandaged with a torn shirt. A third person—a middle-aged woman—sat with her back against a pillar, eyes closed, making a string of soft, rhythmic sounds that might have been prayers or a mantra.
+
+“Jesus,” Beth breathed.
+
+Nina crouched, hands open. “Hey. We’re not with them. We won’t hurt you.”
+
+They blinked up like animals used to human kindness and almost disbelieved it. The teenagers were hoarse with dehydration, and the woman’s wrist bore the jagged impression of rope—someone had bound them at some point. A small transistor radio lay beside them, its antenna snapped.
+
+“We’ve been here two days,” the older woman rasped. “We heard shooting, then the doors wouldn’t open.”
+
+Rafe’s chest tightened. He had imagined all kinds of survivals—lonesome scavengers, crews fortified in flats and karaoke bars—not people trapped in a garage with only the thin protection of concrete.
+
+“Come with us,” Sabine said, and before anyone could answer the teenagers staggered to their feet with the slow euphoria of rescue. They were thin as birds.
+
+They found the infirmary in the cinema’s back corridor—a small room with a steel cot, a defibrillator that had long since run dry, and a cabinet of gauze. A man in a stained white coat leaned against the wall with his eyes closed, breathing shallowly. When Rafe approached, the man opened his eyes with the slow, wary recognition of someone who had been guarding a door he didn’t know how to open anymore.
+
+“Doctor?” Sabine asked.
+
+He blinked, straightened, then managed a wry, exhausted smile. “Name’s Elias. Elias Navarro.” He laughed softly—then leaned his head against the cool cabinet and closed his eyes as if the movement used too much energy.
+
+“You alive?” Rafe asked, surprised at the care in his own voice.
+
+“For now,” Elias said. His hands were steady enough. He pointed to the cabinet. “Tetanus shots expired. Some antibiotics left. Enough to tide someone over.”
+
+Nina opened the cabinet with reverence, fingers brushing the boxes as if they were relics. “We can use him,” she whispered.
+
+Doctor Elias moved with the economical motions of long habit—checking pulses, unwrapping a bandage, showing them how to clean a wound with a supply of sterile saline. He had been alone, he said, since the mall’s staff had fled days ago. He had tried to keep a makeshift infirmary running for anyone who staggered in, but mostly it had been empty beds and a radio that had stopped working.
+
+“You should go with us,” Sabine told him. “We’re heading north.”
+
+Elias’s eyes sharpened. “North?”
+
+“Tanay. Government bunker. Possible lab.” Sabine’s fingers stroked the envelope in her vest, an old worry. “We can use a doctor.”
+
+Elias looked at the small group—Mila with her rabbit tucked under one arm, Victor’s too-bright voice and too-sharp eyes, Miriam’s slow vigilance, Liza’s fierce protectiveness—and then at the young teens they had found. “I don’t want to be used as a bargaining chip,” he said. “Sometimes people expect cures doctors don’t have.”
+
+“We don’t expect miracles,” Rafe said. “We just need you to keep people from getting worse on the way.”
+
+Elias gave a half-laugh. “For that, I may be good enough.”
+
+There was something about his tone—practical, resigned—that convinced Rafe in a way that bureaucratic badges never did. They folded Elias’s medical kit into their scavenged pack and gave him a corner with a bottle of water.
+
+Night came with a softness that felt like a lie. They set up in the mall’s former communal area—a wide atrium with a skylight and benches. A cluster of survivors made beds from shopping-carts and blankets. Sabine posted a perimeter crew and assigned watches; Dizon took point with a pistol and two motion sensors he’d salvaged from the electronics store. For a moment, with the mall’s lights dimmed and the hum of a generator in the background, the group felt like a tiny, precarious tribe. Someone cooked boiling water on a salvaged stove for instant noodles. The smell of hot broth did strange work on fraying nerves: people smiled, even briefly.
+
+But the mall was cluttered with danger. Broken glass crunched underfoot if someone forgot. Skylights were smashed in places, giving vultures and weather a way in. And the mall’s arteries led everywhere—stores, elevators, maintenance shafts—so claustrophobia was never far; there were always corners where an attack could come from within inches.
+
+Around midnight, exhaustion made everyone's sentences shorter. Doctor Elias sat beside Rafe, speaking in low tones about simple triage rules. He had the hands of someone who had sewn up torn limbs and bandaged typhoid patients during storms. There was no glamour in him—only a professional acceptance of the human body’s tendency to bleed and break.
+
+“Keep the wound clean,” he said, tapping the bandage on a teenager’s arm. “Watch for fever. If someone is bitten, that’s… different.”
+
+Rafe looked up. “Different how?”
+
+Elias hesitated. Then: “In bites we’ve seen, the pathogen seems to enter the bloodstream aggressively. Sepsis sets faster. Infected tissue darkens quick. So—if someone is bitten, you have little time.”
+
+Silence pooled. Even the generator seemed to hold its breath.
+
+Miriam rubbed her son’s hair and whispered a prayer. The thoughts that had been floating at the edges of everyone’s minds—the ones about what you do when someone is bitten—solidified into a cold, practical terror.
+
+As the night deepened, arguments that had been hiding in corners during the day crawled out. Victor started them—the man who had panicked in the stairwell, the man who had cursed and then marched on. He had a restless energy that had survived the highway only by sheer, ugly force. Now he prowled like a wounded animal.
+
+“We should get out at first light,” he said louder than necessary. “Head straight to the coast. Enough of these diversions. Hospitals, bunkers—none of that helps when the sea’s your best chance.”
+
+“You don’t know that,” Sabine said. “You weren’t at the checkpoint. You didn’t see—”
+
+“I saw plenty,” Victor snapped. “I’m not staying here to play martyrs for a bunker that might be a grave.”
+
+“Then leave,” Nina said.
+
+He pointed at her like a man issuing a dare. “And you come with me—how many? Seven? For how long? How many mouths do you feed with hope?”
+
+Rafe watched the exchange like a man watching a thin glass crack. He felt, as a leader, the twinge of responsibility: his voice had steered them north; his body had sheltered a child; his choices had consequences. The anger curdled inside him, a thing that could either fuel decisions or burn the group down.
+
+“Enough,” Sabine said with the kind of authority that short-circuits arguments. “We rest. We move at dawn. We each get one job. We eat only what’s necessary. And anyone who stirs trouble goes outside to find air.”
+
+Victor snorted, but he quieted. For now.
+
+They slept in shifts. Rafe took the first watch with Dizon. The mall’s shadows moved strangely under the pool of light from the generator—like sleeping animals beneath a single, vulnerable lamp. It was cold work, to stay awake and still. Rafe thought of his sister, about the adobo in his mother’s kitchen, about the small domestic things that felt like currency now. He thought, too, of the decisions mounting like unread mail.
+
+It was around two in the morning when Dizon hissed softly. “Movement near the east entrance.”
+
+Rafe rose, boot silent against tile. Dizon had a long-range flashlight that he refused to use except in emergencies—light drew attention like a nail draws rust. They moved toward the sound, the way hunters edge toward game, and Rafe’s muscles tensed with the familiar slow-building dread.
+
+“What is it?” he whispered.
+
+“There’s something crawling in the shadows,” Dizon said. “It’s… different.”
+
+They approached the east atrium—a bank of shuttered stores with a statue of a mall mascot slumped in a corner. At first Rafe saw only debris: a torn banner, a sickle of light from a broken skylight. Then, in the deeper dark beneath the scaffolding, something shifted—too calculated to be wind.
+
+A variant.
+
+It wasn’t the spindly, awkward thing they'd first seen. It moved with a compact, dangerous composition—muscles flexing with precise intent. Its head cocked, as if listening not just for sound but for the faintest mechanical hum. It stepped out from the shadow and paused, head tilting. Its eyes reflected the light like onyx.
+
+“Back,” Dizon breathed, but Rafe could see the twitch—Dizon’s finger on the trigger, a man who had learned to steady himself in mid-crisis.
+
+Rafe thought of the animals the infected imitated and how their hunting had evolved. These things were learning to be stealthy, to stalk, to use the hint of structures to their advantage.
+
+The variant moved forward and then—impossibly—clambered up onto the low balcony above the food court. Its motion was quiet as a cat. Rafe followed it with his breath held tight, fingertips tingling.
+
+It leapt.
+
+And for half a second time stretched. The variant’s body unfolded—a blur. It landed with the sound of a body on concrete and struck a guard who’d been sitting with his back to the plaza. The man didn’t have time to scream; the creature’s jaws closed like a clamp and blood rained.
+
+Chaos detonated.
+
+The generator spluttered as someone bumped the fuel queue, lights flickered, and the mall filled with the terrible layered noise of combat: gunshots, a single, obscene animal howl, the panicked shouts of those waking from sleep.
+
+Rafe’s world narrowed. Instinct took over. He grabbed the nearest pipe and sprinted toward the balcony. The variant’s back was toward him—slightly distracted by meat in its jaws—and Rafe struck, hard. The pipe connected with bone. The creature spun, eyes bright and cruel. It didn't go down. It swatted him like an annoyance and reared, its teeth bared.
+
+Nina fired her pistol from the food court below, a clean crack of noise that carved a path in the dark. One of the other variants—there were at least three now—lunged into the crowd, tearing at a teenager that had been praying on a bench. The teenager didn’t have time to scream.
+
+“We need to pull back to the corridor!” Sabine shouted. “Form a funnel!”
+
+They tried to drag the wounded toward the medical bay. Doctor Elias barked orders like someone returning to a rhythm he knew well—clear airways, clamp wounds, bind limbs. His brow was slick with sweat, but his hands steadied.
+
+In the press, Victor panicked. He shoved past a woman, knocking over a display of sunglasses that shattered in a glittering cascade. A variant—a young, lithe one—reacted to the noise and twisted, seizing Victor by the forearm and sinking its teeth in. Victor screamed, a raw, uncontrolled animal sound. His friends pulled at his body. Victor thrashed, a man surprised by the suddenness of his own death.
+
+“Hold him!” someone shouted. “Hold him down!”
+
+Rafe reached for Victor’s other arm. He was too late to stop the bite. Victor’s eyes met his in that brief, horrific instant—full of terror, of pleading, and of a kind of understanding. Victor mouthed something—an apology, maybe. Then darkness clouded his gaze and his body began the grotesque, rapid twitching that came after infection.
+
+They dragged him toward the infirmary as Elias worked at his arm with furious, methodical energy. “We can’t amputate without a sterile saw,” he said. “We can’t cauterize without a proper heat source. This is bad—this is very bad.”
+
+A hush fell. Victor’s breath came ragged; his knuckles white against the stretcher. He kept trying to speak but only choked.
+
+Rafe felt his stomach knot. He wanted to vomit. He wanted to run. He wanted to punch a hole into the ceiling and scream. Instead he held Mila’s hand and listened to the doctor.
+
+“Options,” Elias said, blunt and calm. “We isolate him. Put him in the storage closet. If he progresses, we end it quickly. I can’t guarantee anything else.”
+
+Miriam’s lips quivered. She’d lost her husband before the city fell. She looked at Victor, the man who had found fault with their mission, who had mocked their reasons, with an expression that slid between sorrow and a kind of logical acceptance.
+
+“Do it,” she said quietly. “Do it now. Don’t let it turn into… into more.”
+
+Sabine turned to Rafe. Her jaw had tightened to a thin white line. The moment Rafe had been dreading—the moment a leader must make an impossible choice—arrived like a blood-scented tide.
+
+“We put him in storage,” Rafe said. His voice sounded alien to him: calm, defined. “We lock him in. We watch. If he turns—if he changes—someone has to do what needs doing.”
+
+Nina’s eyes filled with tears but she nodded. “Who will—who will be the one to do it?”
+
+“Not me,” Victor managed to whisper. The pain broke his words like glass.
+
+Rafe looked at Sabine. “You.”
+
+Her face showed nothing. “I’ll do it.” Her voice was low and steady. “If it comes to it.”
+
+They moved Victor into a small storage room. The door groaned closed. They barred it with a metal shelving unit and pushed a large dolly across the frame. They taped it, bricked it with boxes, and then stood just outside, hands resting on the barrier as if on a coffin.
+
+Victor’s breathing was loud through the door. After ten minutes there was a shift in the cadence; a longer pause came between the breath and the next attempt. A scraping sound—something like nails—raked the inside of the room.
+
+Doctor Elias whispered, “We can only delay. This infection moves fast.”
+
+Mira—one of the teenagers they’d rescued—began to sob. “We didn’t know,” she said. Her words were a small, raw thing that wanted comfort.
+
+Rafe closed his eyes. He thought of the highway and of Jun and of Marco’s last look, and of how the world had forced him to choose people’s fates the way a tide forces shells onto the shore. Leadership was not a badge. It was a sequence of small cruelties you had to carry out for the greater chance of life.
+
+He had to be steady for them, even when his hands shook.
+
+Outside, the mall’s lights sparked and a distant bang echoed, the sound of the night fighting back. The mall, with all its retail absurdities, had become a battlefield: aisles as trenches, skylights as possible points of entry, neon signs as warnings.
+
+They survived the night, bleeding but not broken. They lost Victor, in the sense that he had been bitten and would not remain as he was. They gained Doctor Elias, who moved through their ranks like a practical god. They also gained a new wariness—of the smallest sounds, the smallest clatter, the smallest human weakness that could bring doom.
+
+At dawn, they waited. They had patched what they could: barricades were strengthened, listeners posted, and a plan for movement sketched by Sabine’s hand on the back of a store directory. The noise of the night had ebbed, but the residue of it lingered like a bruise.
+
+Rafe watched the group as the early light filtered through the chipped skylights. He saw Miriam calming her boy with a tone he’d learned was necessary, saw Nina rubbing at her eyes, saw Beth arranging the small flowers she had salvaged back into a neat, ridiculous bouquet—an act of defiance against entropy.
+
+They had survived, but at the cost of one of their members—Victor—whose final act had been both selfish and, in a strange way, sacrificial. The group’s cohesion was tested; questions hung thickly in the air: Who decides? Who judges? Who pulls the plug when everything inside someone says they are already a different creature?
+
+Rafe felt all those weights. He also felt the small sticky warmth of Mila’s hand in his. He drew breath and gathered the will to move forward.
+
+“We go to Tanay,” he said, almost to himself. The words were a promise to the dead and the living. “We go to Tanay because someone up there might have answers we need to stop this.”
+
+Nina nodded. “And if they don’t?”
+
+“Then we keep moving,” Rafe said. “One step at a time. One day at a time.”
+
+The mall that morning seemed quieter in a new way—no longer just abandoned but inhabited with the heavy hush that follows grief. They packed light. Sabine sealed the classified envelope tighter in her vest. Doctor Elias strapped on a small satchel of supplies. The teenagers murmured something about going with them; they were accepted without question.
+
+As they filed out through the service door into a sky the color of old coins, Rafe cast one last glance back at the food court: a place of broken dreams, of laughter never had, of vending machines that would never again spit out change. He thought of Victor alone in the storage room, of the sound of his breath behind the bricks, and whispered a small prayer for a man whose choices had shaped their night.
+
+They moved out as a unit, the mall shrinking behind them, its echo following like a memory. The road to Tanay lay ahead—a tangle of hills, infected patterns, and secrets hidden by state screens. It was a long way. They had paid and would pay more.
+
+But they were going. And for now, that had to be enough.
+
+
+Chapter 8: Loss at Dawn
+
+Dawn crept across the sky like a hesitant confession—muted orange bleeding through gray, soft light seeping through cracked skylights and the jagged holes the variants had carved into the mall’s structure hours before. The survivors stirred in the dusty atrium, their faces a collage of exhaustion and the strained quiet that comes after violence. The night had felt endless, an unbroken stretch where time didn’t move so much as stagger under its own weight.
+
+Rafe was awake before the dawn fully bloomed, knees drawn to his chest, Mila asleep beside him with her small hand wrapped around the fabric of his sleeve. The mall still hummed faintly with the generator’s dying heartbeat, its rhythm brittle. The survivors who had taken watch—Sabine and Dizon—stood near the barricaded east entrance, their silhouettes sharp against the pale light.
+
+It should have been peaceful.
+
+It wasn’t.
+
+Something was wrong. Rafe felt it—an instinct honed by fear and repetition.
+
+He rose carefully, pulling Mila’s blanket up to her chin. The air was colder than expected. Too still.
+
+Sabine noticed him and jerked her chin toward the far corridor. “Come here.”
+
+The tightness in her voice made his pulse thicken.
+
+When Rafe reached her side, Dizon whispered, “Listen.”
+
+At first, all he heard was the faint metallic buzz of a flickering neon sign. Then—
+
+*Scrape.*
+
+*Shuffle.*
+
+A long, low groan carried through the service hallway.
+
+Rafe’s stomach tightened. “Variants?”
+
+“Too many,” Sabine said. “And too close.”
+
+“How—?”
+
+“Maybe they tracked us,” Dizon muttered. “Maybe they just followed the noise last night. Maybe they followed the blood.”
+
+Rafe scanned the floor tiles—blood smears, drying into dark patches. The broken skylight’s glass fragments glinted like jagged signals.
+
+Sabine’s jaw clenched. “Wake everyone. Now.”
+
+Rafe nodded and moved quickly, his voice low but urgent. “Up. Get your packs. Quietly.”
+
+The survivors stirred. Nina immediately read the tension and began directing people—Liza grabbing her son, Miriam pulling on her shoes, Beth clutching her satchel of salvaged dried flowers as though they were relics holding her together.
+
+Doctor Elias slung his medical satchel over his shoulder with practiced calm, though his eyes betrayed unease. The two rescued teenagers, Mira and Joss, scrambled to gather their scattered belongings.
+
+Mila rubbed her eyes. “Rafe…?”
+
+He crouched to meet her gaze. “We’re going. Right now. No questions. Stay close to me.”
+
+Her bottom lip trembled. But she nodded.
+
+Sabine positioned herself near the service corridor leading to the loading dock. “We take the back exit,” she whispered. “Abandon the idea of the front—too many shadows, too many blind spots.”
+
+“How many?” Nina whispered.
+
+Sabine didn’t answer with words. She nodded toward the corridor.
+
+Rafe followed her gaze.
+
+A shape moved in the darkness, then another. Not the slow, empty staggering of the early infected. This was faster. Purposeful. One figure crawled along the wall like a spider, its movements fluid and disturbingly quiet.
+
+Variants.
+
+At least a dozen.
+
+Rafe’s breath caught.
+
+“We move now,” Sabine hissed, “before they—”
+
+A shriek ripped through the mall, echoing like a blade across metal.
+
+They’d been detected.
+
+“Go!” Sabine shouted.
+
+The survivors bolted toward the loading dock hallway, footsteps pounding against tile. Rafe cradled Mila against his chest, shielding her as they sprinted past storefronts. Behind them, the infected swarmed the atrium—claws hitting tile, guttural snarls mixing with the high-pitched screech of variants communicating.
+
+Doctor Elias pushed the teenagers in front of him, urging them forward. He ran slower than the others but with fierce determination to protect his new patients.
+
+They were ten meters from the loading dock when a variant hurled itself from a second-floor balcony. It hit the ground behind them with a wet crunch and scrambled upright instantly, letting out a piercing shriek.
+
+“Don’t look back!” Rafe yelled.
+
+But he heard it—heard the rapid drumming of limbs, too many feet pounding too fast.
+
+Sabine reached the loading dock door and shoved it open. “Through here! Quick!”
+
+Nina ushered people through. Liza shoved her son out first. Beth stumbled but kept moving.
+
+Rafe pushed Mila into Nina’s arms. “Take her!”
+
+“What—?”
+
+“Take her!”
+
+He spun back, saw Doctor Elias limping, sweat pouring down his face, breath ragged. A variant lunged from the shadows, jaws open.
+
+Rafe didn’t think.
+
+He grabbed a broken chair leg and smashed it against the creature’s head. It reeled, then shrieked, retreating only long enough for Rafe to pull Elias through the doorway.
+
+“Go!” Rafe shouted. “Go!”
+
+But before Elias could move—
+
+Something launched at him from the side.
+
+A blur of mottled skin and teeth.
+
+It slammed Elias into a metal shelving rack, knocking instruments to the floor. Elias gasped in pain as the variant snapped its jaws an inch from his face.
+
+Rafe darted toward them, but Sabine grabbed him hard by the arm.
+
+“Rafe—no!”
+
+Elias looked at Rafe with sudden clarity.
+
+Not panic.
+
+Acceptance.
+
+“Run,” he whispered.
+
+The variant’s teeth sank into his shoulder.
+
+Elias screamed—a horrible, raw sound that felt like it tore through Rafe’s ribs.
+
+“NO!” Rafe lunged, but Sabine held him.
+
+More variants poured into the hallway behind Elias, dragging their own shadows like monstrous extensions.
+
+Elias fought, even while bitten. He grabbed the variant by the throat and slammed its head against the metal rack—once, twice, three times. Milky fluid sprayed. The variant crumpled.
+
+But two others replaced it instantly.
+
+Rafe’s voice cracked. “We can still get him! We can still pull him—”
+
+“You know we can’t,” Sabine said softly. “He’s bitten.”
+
+“Then we—then we kill the infected around him—”
+
+“Rafe,” Sabine said, eyes raw with something like grief restrained by duty, “if we go back in there, we all die.”
+
+Elias looked up one last time, blood running down his arm and soaking his coat. His face was pale but resolute.
+
+“Please,” he mouthed. “Go.”
+
+Sabine seized the loading dock door and slammed it shut. Rafe threw his body against it, trying to wrench it back open.
+
+“Elias!” he roared.
+
+On the other side of the door, Elias screamed again. Then the sound turned into a gargling choke.
+
+Variants piled on him.
+
+The sound of tearing.
+
+Wet crunching.
+
+Sabine pressed her forehead to the steel.
+
+The group stared in stunned silence, breaths shaking.
+
+Liza sobbed openly, her chest heaving. Miriam covered her son’s eyes. Beth collapsed against a pallet stack and covered her mouth.
+
+Nina stood rigid, tears slipping down her cheeks even though her face remained composed.
+
+Mira whispered, “He saved us.”
+
+Rafe didn’t speak.
+
+He couldn’t.
+
+His throat was raw. His chest felt hollowed out. His eyes blurred as he leaned his forehead against the cold metal door.
+
+Doctor Elias—the man they had saved just a day ago, the man who had patched their wounds, who had shown kindness without expectation—was gone in minutes.
+
+Sabine touched Rafe’s shoulder gently.
+
+“We need to move. They’ll break through soon.”
+
+Rafe pulled away from her touch. “You didn’t even let me try.”
+
+Sabine didn’t flinch. “If you had gone in, you would have died. And then Mila, Nina, the others—everyone—would have lost you too.”
+
+Rafe trembled. “I can’t keep losing people. I can’t—”
+
+“You can,” Sabine said. “You have. And you will. And you’ll keep going anyway, because that’s what leadership is now.”
+
+Her voice softened. “It’s not about saving everyone. It’s about saving who you can.”
+
+Rafe closed his eyes hard, letting the words sting and settle.
+
+Another thud rattled the door.
+
+Variants clawed from the other side.
+
+“We move,” Sabine commanded. “Now.”
+
+They fled through the loading dock, emerging into the pale morning light. The air smelled faintly of soil and pine—fresh enough to sting the senses after days of decay.
+
+They moved quickly through a wide delivery yard, breaths sharp, heading toward the service road that would take them north, toward Tanay.
+
+As they walked, grief settled over them like ash.
+
+Mila tugged at Rafe’s sleeve. “Is he… is Doctor Elias…?”
+
+Rafe’s voice broke as he knelt beside her.
+
+“He’s gone.”
+
+Mila’s eyes filled with tears. “Was it my fault? He tried to help us—”
+
+“No,” Rafe said, pulling her into a tight embrace. “Never your fault. Elias chose to help. Because he was good. Because he was brave.”
+
+“Like you,” she whispered.
+
+Rafe felt his breath fracture.
+
+He wanted to correct her—tell her he wasn’t brave, that he was barely holding together, that his decisions haunted him. But he didn’t. He couldn’t shatter the fragile trust she placed in him.
+
+Instead, he knelt there in the gravel and let Mila cry into his shirt.
+
+Nina approached quietly, placing a hand on Rafe’s back.
+
+Beth knelt beside them, offering the same dried flowers she had salvaged—a silly, small gesture that felt strangely sacred. Rafe squeezed her hand in gratitude.
+
+Miriam and Liza bowed their heads in prayer. Even Victor—once loud, angry, bristling—stood in silence, jaw clenched, eyes dark with something like remorse.
+
+Sabine stood apart, watching the treeline. Guarding the space. The only one who didn’t weep—but her stiff posture revealed her own mourning.
+
+When the group finally rose, the light had shifted. Morning was truly here.
+
+But the world felt dimmer.
+
+Doctor Elias was gone.
+
+A good man. A needed man.
+
+And they had to keep moving without him.
+
+Rafe inhaled a shuddering breath.
+
+Mila gripped his hand.
+
+Nina stood at his shoulder.
+
+Sabine nodded once—acknowledgment, approval, understanding.
+
+“Let’s go,” Rafe murmured.
+
+They walked north.
+
+Leaving behind the mall.
+
+Leaving behind the screams.
+
+Leaving behind another grave they couldn’t mark.
+
+And Rafe carried the weight of it—every death, every choice, every failure—like a stone lodged beneath his ribs.
+
+He didn’t know how many stones a man could carry before breaking.
+
+But for now, he walked.
+
+Because the others needed him to.
+
+
+Chapter 9: The Mountain Roads
+
+The road north bent away from the last remnants of civilization and into the rising ribs of the Sierra Madre. What began as a cracked provincial roadway quickly eroded into a narrow stretch of asphalt fractured by roots, landslide scars, and the slow reclaiming creep of jungle. Wind hissed through tall grasses. Mist clung stubbornly to the slopes even as the sun rose, rendering everything both shrouded and exposed at once.
+
+For the first time since leaving the mall, the world sounded alive again—not with screams or infected howls, but with crickets, distant birdcalls, and the occasional rustling of unseen animals in the underbrush. Yet the survivors moved with caution, no longer fooled by the illusion of nature’s peace. Even the mountains, untouched as they seemed, held dangers of their own.
+
+Sabine walked in front, rifle slung over her shoulder, steps confident but cautious. Her gaze flicked between the trail ahead and the slopes above them, as though expecting an ambush. Dizon followed her, one hand hovering at his belt holster. Behind him were Nina, Beth, and Miriam with her son. Rafe stayed near the middle of the line, Mila holding his hand tightly, as always. Liza walked beside them, whispering quiet reassurances to her boy whenever the path became steep or the trees loomed too close.
+
+The trail wound upward, tracing the edge of a river that flowed from the northern highlands. Its water was clean—mercifully so—and they refilled their bottles at a bend where the current slowed into a shallow pool.
+
+Rafe crouched beside the water, splashing his face, letting the cold bite some life back into him. Mila knelt beside him, cupping small handfuls to drink. Her hair hung in tangled curls, her clothes smudged with dust, but her eyes—though shadowed—held a resilience deeper than her years.
+
+“You’re doing great,” Rafe told her softly.
+
+She shrugged, almost shy. “I’m trying.”
+
+He smiled despite himself. In so short a time, she had become an anchor he didn’t know he needed—a reminder of the world before, of innocence fighting to survive.
+
+“Have you ever been to the mountains before?” he asked.
+
+She shook her head. “Mama said the mountains were too cold. But Papa said maybe one day we’d go camping.” Her voice tightened. “We never did.”
+
+Rafe’s chest ached. “Do you want to talk about them?”
+
+Mila paused—a long, contemplative pause—and then nodded.
+
+She spoke quietly, her fingers tracing circles on a pebble.
+
+“Mama liked the sea more. She said the mountains felt heavy. Papa liked the mountains because he said the trees could hide you if you needed. They used to fight about it a lot.” She smiled faintly. “Not real fighting… just silly arguments.”
+
+Rafe listened without interrupting, letting her steer the small boat of memory.
+
+“Papa said we’d go camping when he saved enough money. But things kept getting in the way. Work, school, bills…” She placed the pebble down carefully. “Then the world got sick.”
+
+Rafe swallowed. “You miss them.”
+
+Mila nodded, clutching her stuffed rabbit tightly. “But I’m glad I’m not alone anymore.”
+
+His heart twisted. He placed a gentle hand on her head, smoothing her hair. “You won’t be. Not as long as I’m breathing.”
+
+Nina overheard and smiled warmly. Even Sabine’s expression softened slightly.
+
+But the moment of calm ended as soon as Rafe stood up—because Sabine pointed toward the trail ahead and said, “We need to hurry. Weather’s turning.”
+
+Rafe frowned. “It’s warm.”
+
+Sabine lifted her chin toward the ridge. “That’s fog rolling down. Thick fog. Mountain fog can freeze your bones if you stay in it too long.”
+
+He had heard stories—hikers lost on mountain trails, sudden drops in temperature that killed faster than a fall. The warning sat heavy.
+
+They moved again, pace quicker.
+
+The trail narrowed to a single winding path, flanked by cliffs on one side and steep drops on the other. Fallen trees blocked sections, forcing them to scramble over or detour around thorny brush. At one point, the group encountered a patch of ground that shifted underfoot—loose soil from an old landslide. Rafe nearly slipped, but Nina caught his arm.
+
+“Careful,” she whispered. “These roads have eaten hikers alive.”
+
+He gave a shaky nod.
+
+By mid-afternoon, fog had thickened, rolling down the mountainside in dense waves. It felt like walking through the breath of a giant—cold, damp, enveloping. Visibility shrank to mere meters. The temperature dropped with unnerving speed.
+
+Liza’s boy began to shiver. Beth rubbed his arms. Miriam cursed quietly under her breath; her son tripped twice on unseen rocks.
+
+Sabine halted the group. “We need shelter.”
+
+Dizon scanned the fog. “There’s an old barangay hall marked on the map—maybe a kilometer up.”
+
+“Maybe,” Sabine muttered. “Maps don’t account for landslides.”
+
+“Then we look,” Rafe said, stepping beside her. “Before the cold gets worse.”
+
+Sabine eyed him. “Keep your group tight. We don’t separate. Not even for water.”
+
+Rafe bristled slightly. “My group?”
+
+“Our group,” Sabine corrected. “But they follow your voice, not mine.”
+
+The implication stung—and warmed him in some strange way.
+
+They marched onward, moving through the fog like ghosts searching for their bodies. Occasionally, a crack of falling stone echoed, making everyone flinch.
+
+Then—voices.
+
+Human voices.
+
+They froze.
+
+“Do you hear that?” Nina whispered.
+
+Sabine raised a fist. “Hold.”
+
+The voices were rough. Male. Laughing. Clanking metal. The sound of rummaging.
+
+Sabine positioned herself in front of the group, motioning for silence. The mist parted slightly, revealing shapes ahead—five men, dirty and armed with pipes, knives, and a sawed-off shotgun. They were looting an abandoned jeep, tossing belongings aside in a frenzy.
+
+Scavengers.
+
+Not survivors.
+
+Scavengers.
+
+Sabine whispered, “Back up. Slowly.”
+
+But the gravel shifted beneath Miriam’s shoe—just enough to echo.
+
+One of the scavengers whipped his head around. His eyes narrowed.
+
+“Who’s there?”
+
+Sabine mouthed **run**.
+
+The group turned—
+
+“HEY!” another scavenger shouted. “We got company!”
+
+Sabine cursed under her breath and raised her rifle, firing a shot into the air—not to kill, but to warn.
+
+The scavengers scattered but then regrouped, flanking like predators. One aimed the shotgun.
+
+Rafe shoved Mila behind a boulder as the blast thundered across the trail.
+
+“Move!” Sabine barked. “Tree line, now!”
+
+They sprinted toward the thicker brush. Branches clawed at their arms and faces as they pushed deeper into cover.
+
+A second blast ricocheted off a rock near Nina’s head.
+
+“Sabine!” Rafe shouted.
+
+“I see them!” Sabine took position behind a tree, bracing her rifle. “Dizon, flank left!”
+
+Dizon disappeared into the fog.
+
+The scavengers shouted curses, crashing through undergrowth.
+
+Sabine fired once—cleanly. A cry followed.
+
+“Got one,” she hissed.
+
+Another man lunged through the mist toward where Beth and Miriam huddled.
+
+Rafe swung a fallen branch like a bat, connecting with the attacker’s jaw. The man fell, spitting blood and losing his knife. Before he could stand, Nina kicked the knife aside and stomped him unconscious.
+
+The fog deepened.
+
+The scavengers retreated.
+
+Sabine held her stance until silence stretched long.
+
+“They’re gone,” she muttered. “For now.”
+
+“Are they infected?” Liza asked breathlessly.
+
+“No,” Sabine said. “Just desperate.”
+
+Rafe wiped sweat from his brow, breathing hard. “If this is what mountain survivors look like, I can’t imagine what’s deeper in.”
+
+Sabine didn’t laugh. “You don’t want to.”
+
+They found the barangay hall after another grueling thirty minutes—half-collapsed but still standing enough to shield them from fog and cold. Sabine forced the door open with a steel bar, and they slipped inside, barricading the entrance with upturned tables.
+
+The interior was dusty but dry. Old posters of community events still clung to the walls. A portrait of a smiling councilwoman hung crookedly near the stairs.
+
+They lit a small fire in the center of the room using scrap wood. The warmth was immediate and strangely intimate. Shadows danced across the walls, making the empty hall feel inhabited again.
+
+Rafe sat beside Mila, wrapping a blanket around her small shoulders. She leaned against him, weary eyes half-closed.
+
+“Rafe?” she whispered tiredly.
+
+“Yeah?”
+
+“Were those men bad guys?”
+
+Rafe hesitated. “They were scared. And scared people do bad things.”
+
+She mulled that over, nodding slowly. “Are we ever going to be like that?”
+
+“Never,” Rafe said firmly. “Not as long as I’m around.”
+
+“Promise?”
+
+He met her gaze. “Promise.”
+
+She smiled softly and drifted to sleep.
+
+Across the fire, Sabine sat with her back to a wall, rifle leaned beside her, eyes studying Rafe with an unreadable expression. He tried to look away, but she held his gaze.
+
+“You did good today,” she said.
+
+He shook his head. “I nearly got Mila shot.”
+
+“You protected her. You protected all of them.” Sabine paused. “You didn’t panic.”
+
+“Neither did you,” he said.
+
+Her lips tugged faintly. “I’m trained not to.”
+
+“Doesn’t make it easier.”
+
+“No,” she admitted quietly. “It doesn’t.”
+
+They sat in silence, the fire snapping between them.
+
+Gradually, the day’s tension—the scavengers, the cold, the fog—thinned, leaving something fragile and unfamiliar.
+
+Trust.
+
+Not fully grown, but seeded.
+
+Sabine looked at the sleeping survivors, her gaze lingering on the youngest ones. “I’ve seen worse,” she murmured. “But never with civilians making it this far. You’re doing more than you know.”
+
+Rafe swallowed. “Sometimes it feels like I’m one mistake away from losing everyone.”
+
+Sabine’s voice softened. “Leadership isn’t about being perfect. It’s about carrying the weight when the imperfect things happen.”
+
+He didn’t respond.
+
+He couldn’t.
+
+The fire cracked louder, drawing both their eyes.
+
+Sabine shifted closer—not enough to touch, but enough to share warmth.
+
+“We’ll reach Tanay,” she said. “With you, we will.”
+
+Rafe didn’t trust easily. But somehow, in that moment, he believed her.
+
+Outside, the fog thickened. The night deepened. The mountain breathed cold air down the trail.
+
+Inside the hall, firelight kept the darkness at bay.
+
+And for the first time since the world began to fall apart, the survivors slept through the night without dreams of teeth or screams.
+
+For now, the mountains held their silence.
+
+But dawn would come.
+
+And with it, new dangers—and new choices.
+
+
+Chapter 10: The Tanay Bunker
+
+By the time the group crested the final ridge overlooking the Tanay valley, daylight had begun to fade into an amber haze, the sun bleeding into the horizon like a dying ember. The air was colder here, sharp and thin, carrying the scent of pine and wet soil. Below them, half-hidden by mist and foliage, lay the Tanay Bunker—the supposed sanctuary, the hope Sabine had clung to, the place Rafe had driven the group toward through death, fog, and fear.
+
+It looked nothing like hope.
+
+The bunker sprawled across the valley floor like a gash torn into the earth. Its once-fortified perimeter walls were split open in jagged angles, rebar sticking out like fractured bones. Watchtowers leaned precariously, some collapsed entirely. Smoke curled lazily from a half-collapsed ventilation shaft. The military trucks scattered around the ground were overturned or burned, their hatches blown apart.
+
+The bunker had not fallen quietly.
+
+Rafe stared in stunned silence, his pulse thrumming in his ears. Mila’s small hand tightened around his.
+
+“Is… is that it?” she whispered.
+
+Rafe could barely manage a nod. “That’s it.”
+
+Sabine said nothing at first. Her jaw was tight, her face carved with disbelief so deep it bordered on grief. She descended the slope slowly, each step deliberate, as if approaching the aftermath of her own failure.
+
+No one spoke as they followed her down the winding path. The closer they got, the clearer the devastation became: scorch marks on concrete; shell casings littering the ground; torn helmets; bootprints leading in frantic circles; bullet-riddled corpses—infected and human alike—half-buried in dried mud. The stench was thick, rancid, clinging to the skin.
+
+Rafe felt each detail like an accusation.
+
+This was supposed to be the place where answers waited.
+
+This was supposed to be worth all the blood.
+
+When they reached the outer gate—bent sideways like something massive had torn it open—Sabine finally halted, breath unsteady.
+
+Dizon swept his flashlight over the entryway. “God… what did this?”
+
+Sabine swallowed. “Variants.”
+
+“How many?” Nina asked, eyes wide.
+
+Sabine’s expression was grim. “Enough.”
+
+Rafe knelt beside a soldier’s body slumped against a wall. His uniform bore the insignia of the same division as Sabine’s. His eyes were open, glazed over, his throat torn.
+
+Mila turned away quickly, burying her face in Rafe’s sleeve.
+
+“We can’t stay out here,” Sabine said firmly, regaining a sliver of command. “There may still be survivors inside.”
+
+“Or infected,” Victor muttered.
+
+“Both,” Sabine replied. “Keep your weapons ready.”
+
+They entered the bunker cautiously.
+
+Inside was dim, lit only by the flicker of emergency lights—weak, intermittent, as if struggling to hold onto power. The entrance hall was a mess of overturned tables, scattered documents, shattered glass, and dried blood. Gunfire marks decorated the walls like violent graffiti.
+
+Rafe stepped carefully over a fallen barricade. “This place was overrun days ago…”
+
+“Not days,” Sabine murmured, pointing to a pool of blood still glistening slightly. “Hours.”
+
+A chill ran down Rafe’s spine.
+
+Hours.
+
+They followed the corridor deeper, their footsteps muffled by debris. The sound of dripping water echoed faintly. Somewhere distant, a metal door creaked. Sabine raised her rifle. Dizon mirrored her.
+
+A weak voice called from behind a barricaded medical wing door.
+
+“—hello? Is someone there?”
+
+Everyone froze.
+
+Sabine moved forward, calling out softly, “Philippine Armed Forces. Identify yourself.”
+
+There were scrambling noises, hurried footsteps, and then the sound of locks being undone. The door cracked open, and a pale face peered through—wild-eyed, terrified, but unmistakably human.
+
+“Thank God…” the man breathed. “You’re alive.”
+
+He opened the door wide enough for them to enter, revealing a small, makeshift safe room. Emergency lamps lined the walls. Medical equipment and overturned lab carts blocked most entrances. The room smelled of antiseptic and fear.
+
+Three survivors stood within: a young woman in a lab coat with tear-stained cheeks; an older man clutching a fire extinguisher; and a scientist with steel-gray hair and piercing eyes behind cracked glasses.
+
+Sabine straightened the moment she saw him. “Dr. Orion Vega.”
+
+The scientist blinked, startled. “Lieutenant Reyes?”
+
+Rafe noted the way Sabine’s shoulders stiffened.
+
+“You survived,” she said, disbelief shading her voice.
+
+“Barely,” Vega replied. “Most of us didn’t.”
+
+The room fell silent.
+
+Rafe observed the man—thin, pale, intelligent eyes burning with too many secrets. This was someone who had seen horrors from the inside, not the outside.
+
+Sabine introduced the group quickly. Vega’s eyes lingered on Mila longer than the others, softening slightly, before hardening again with grim resolve.
+
+“What happened here?” Nina asked.
+
+Vega exhaled shakily. “What always happens when men try to enhance what nature never intended.” His gaze swept across the ruined facility, his voice trembling between anger and shame. “The virus mutated again. Faster this time. More coordinated. The variants—V-4, we call them—breached every floor.”
+
+Sabine exchanged a wary look with Rafe. “V-4?”
+
+Vega nodded. “Stronger than V-3. Quicker. Smarter. They communicated with each other, flanked our defenses, overwhelmed soldiers. We tried to isolate the wing containing the research data. Tried to retain the last working sample of the Alpha Strain.”
+
+Miriam’s eyes widened. “Alpha? That’s… the original?”
+
+“The source,” Vega confirmed. “The purest version. The only one not yet corrupted by external mutations.”
+
+Rafe felt the gravity of the words.
+
+“And you still have it?” Sabine pressed.
+
+Vega paused—long enough for dread to grow.
+
+“Yes,” he said finally, “but it’s locked inside the lab’s containment vault.”
+
+“Where?” Rafe asked.
+
+Vega quietly gestured toward the far side of the bunker. “Sector C.”
+
+Beth frowned. “What’s the catch?”
+
+Vega’s voice dropped.
+
+“Sector C is overrun.”
+
+Silence hit the room like a hammer.
+
+Rafe looked around the bunker—its wounded walls, its dried blood, its broken systems—and understood the scale of what they faced.
+
+A lab filled with infected.
+
+Likely dozens.
+
+Possibly variants.
+
+Nina whispered, “We can’t go in there.”
+
+“We must,” Vega said firmly. “Without the Alpha Strain, all hope of reversing the virus dies with this bunker.”
+
+Victor shook his head. “Forget a cure. We’re trying to survive. Why should we risk our lives for a sample?”
+
+Vega locked eyes with him. “Because without it, you won’t survive long. None of us will.”
+
+Sabine stepped closer to Vega. “We came for answers. You know what caused this. You know how to fix it.”
+
+“Not fix,” Vega corrected. “Slow. Resist. Maybe stop if we’re lucky. But the world is already infected. Cities are fallen. Governments are fractured. Military communication broke the day this bunker collapsed.”
+
+Rafe asked quietly, “What do we need to do?”
+
+Sabine and Vega exchanged a look—an unspoken agreement, two people bound by duty and regret.
+
+Vega spread out a makeshift map of the facility. “Sector C connects through these lower corridors. The infected patrol them in patterns. They hunt sound. They’ll be drawn by movement. But there’s a maintenance tunnel here.” He pointed to a narrow line. “If you move quietly, carefully, it might give you access to the upper vent systems above the main lab.”
+
+“And then?” Rafe asked.
+
+“Someone drops down, enters the vault, retrieves the Alpha Strain case.” Vega’s expression darkened. “The vault itself… is secure, but the lab outside it is not.”
+
+“How many infected?” Sabine asked.
+
+Vega hesitated. “At least twenty. Maybe more. We sealed as many as we could inside after the breach, but variants forced some doors open. They’re trapped in there—*for now.*”
+
+Fear rippled through the group.
+
+“How do we get out after we get the sample?” Nina asked.
+
+Vega gave a bleak half-smile. “You run.”
+
+Victor threw up his hands. “This is insane.”
+
+“No,” Sabine said softly. “This is necessary.”
+
+Rafe felt every eye turn toward him again.
+
+He had long stopped thinking of himself as a leader.
+
+But the others still looked to him.
+
+Mila tugged his sleeve. “Are we going into the dark again?”
+
+He knelt beside her. “Yes.”
+
+“Is it scary?”
+
+“Yes.”
+
+“Will you leave me?”
+
+Rafe’s voice cracked. “Never.”
+
+Vega watched them quietly, an unreadable expression flickering in his eyes.
+
+Sabine approached Rafe, lowering her voice. “You don’t have to do this. I will.”
+
+Rafe met her gaze. “We all will.”
+
+Her eyes softened, just slightly. “Then we make a plan. Together.”
+
+The group huddled around Vega’s map.
+
+Outside the safe room, something growled.
+
+Metal scraped against metal.
+
+A heavy thud echoed through the corridor.
+
+The survivors tensed.
+
+Vega whispered, “They’ve been restless since nightfall.”
+
+Sabine grabbed her rifle. “Then we move before they regroup.”
+
+Rafe took a deep breath, steadying the panic clawing up his chest.
+
+They had come to Tanay for answers.
+
+Instead, they found a tomb.
+
+And somewhere in that tomb, guarded by monsters born of human arrogance, lay their only chance at a future.
+
+Rafe stood tall, the weight of loss and duty settling like armor across his shoulders.
+
+“Let’s get the sample,” he said.
+
+“Let’s finish what we came here for.”
+
+And together, with fear as their shadow and purpose as their blade, they stepped out of the last safe room—
+
+And into the infected heart of the Tanay Bunker.
+
+
+Chapter 11: The Raid
+
+The bunker corridors felt like the throat of a dying beast—narrow, trembling, walls pulsing with the distant echoes of things that were neither human nor entirely dead. The emergency lights flickered with erratic rhythm, painting everything in stutters of red and white. As Rafe’s group stood at the threshold of Sector C, the air grew colder, heavier, soaked with the metallic scent of blood and burned chemicals.
+
+Rafe tightened his grip on the metal pipe Sabine had reinforced with steel wiring. The weapon felt small compared to what waited inside, but small was better than empty. He felt Mila’s eyes on him even though she stood safely behind the barricaded door of the survivors’ safe room.
+
+He hadn’t said goodbye.
+
+He couldn’t.
+
+Sabine stood beside him, rifle angled low but ready. Her jaw was set so tightly a vein thrummed beneath her ear. Dizon was on her left, face pale but calm. Behind them were the bunker’s remaining survivors—three scientists and two soldiers. That was all.
+
+Seven fighters.
+
+Against dozens—maybe more—of the mutated infected.
+
+Dr. Orion Vega stood in front of the sealed door that led into Sector C. His hands shook, not from fear but from anger—or guilt. Maybe both. The corridor smelled like chemicals and rot. Vega’s eyes lingered on the reinforced steel door as though staring at a grave he had dug himself.
+
+He turned to the group, swallowing hard.
+
+“Once we open this,” Vega said, “we won’t be able to close it again from the outside. Power’s unstable. Locks have been compromised.”
+
+Rafe’s pulse thudded in his ears. “So we go in—and we finish it.”
+
+Vega nodded slowly. “The containment vault is on the lower level. Alpha Strain is locked inside a pressurized cryo-case. It’s intact. I’m sure of it.”
+
+“Sure enough to risk all our lives?” Victor—still nursing a grazing wound from the mountain road scavengers—asked bitterly.
+
+Vega’s eyes hardened. “I’m risking mine, too.”
+
+Sabine lifted her rifle. “Enough talking. Let’s get this done.”
+
+As Vega keyed in an override code, lights rippled across the heavy steel door. Mechanisms groaned. Something hissed. The door unsealed with a slow, agonizing scrape, releasing a gust of icy air.
+
+Darkness breathed out from within.
+
+A moan answered from deeper inside—wet, throaty, close.
+
+The door slid open.
+
+Sector C yawned like a wound.
+
+---
+
+### **The Entry**
+
+Their lights cut through the pitch-black corridor, revealing shattered lab equipment, overturned stretchers, streaks of blood arcing across walls. Warning signs hung shredded:
+
+**BIOHAZARD LEVEL 5**
+**RESTRICTED ACCESS**
+**STRICTLY NO ENTRY WITHOUT CLEARANCE**
+
+Now, they were graffiti in a graveyard.
+
+Rafe swallowed. The deeper they descended, the thicker the air grew—cold but rancid, as if the ventilation system exhaled death.
+
+Footsteps echoed—too loud, too revealing. Every breath felt like bait.
+
+The first body they found was a scientist slumped against a glass chamber. The chamber itself was cracked—long claw-marks carved from inside out. The man’s chest had been torn open.
+
+Beth gagged behind them. “This was… this was their job?”
+
+Vega’s face tightened. “They tried to contain it. They failed.”
+
+Sabine moved forward. “Stay sharp. They’re here.”
+
+A faint skittering noise scraped overhead.
+
+Rafe jerked his flashlight upward.
+
+The ceiling was latticed with pipes and support beams.
+
+Something moved—fast.
+
+Something big.
+
+He raised his weapon just as a blur dropped from the dark and slammed onto Dizon.
+
+Dizon’s scream was sharp, ripped raw from the back of his throat. The creature was on him instantly—clawed limbs pinning him down, jaws snapping inches from his face.
+
+Variant.
+
+A V-4.
+
+Its eyes glimmered with feral intelligence, its limbs grotesquely elongated, muscles twitching with savage precision.
+
+“Dizon!” Sabine cried, firing.
+
+The bullet struck the creature’s shoulder—but it didn’t fall. It screeched, lunged sideways, knocking Sabine off balance. Rafe didn’t think—he swung the metal pipe with all his strength. It cracked against the variant’s jaw, making it recoil long enough for Dizon to scramble backward, gasping for breath.
+
+But the creature was not alone.
+
+Shadows skittered across the far end of the corridor.
+
+More variants crawled through broken vents, limbs twisting unnaturally as they descended like monstrous spiders.
+
+“Back!” Sabine ordered. “Fall back!”
+
+But Sector C had already sealed behind them.
+
+They were trapped.
+
+“Form a line!” Rafe shouted, surprising even himself with the raw command in his voice. “Make them bottleneck!”
+
+Sabine gave him one sharp nod.
+
+They braced.
+
+The first variant charged—fast, too fast—and collided with their formation. Rafe slammed the reinforced pipe into its skull. Sabine’s rifle cracked again and again. Blood sprayed the corridor walls.
+
+But the variants kept coming.
+
+Beth stumbled back, screaming as one leapt toward her. Rafe lunged sideways, grabbing the creature by the neck and smashing its head into a metal console. It convulsed, shrieking.
+
+Vega shouted, “The lower lab is close! Just past that corridor!”
+
+“We’ll never make it unless we thin them out!” Sabine yelled.
+
+Dizon swung his machete wildly at a creature clinging to a wall. A second variant struck him from behind, knocking him to the floor.
+
+Rafe saw the teeth flash.
+
+“No!” He threw himself forward, but he was too far—just an inch too far.
+
+The variant tore into Dizon’s shoulder.
+
+Sabine’s scream—raw, animal—split the corridor.
+
+She unloaded the rest of her magazine into the creature’s head. It fell limp, but Dizon was already bleeding heavily, eyes wide with shock.
+
+“No, no, no—” Sabine knelt beside him.
+
+Dizon managed a small, broken smile. “I told you… we should’ve… stayed on the mountains.”
+
+His breath hitched.
+
+Then stopped.
+
+Sabine’s face contorted—not with fear, but grief sharpened into something deadly.
+
+“MOVE!” she screamed, voice cracking. “Dizon didn’t die for us to freeze here!”
+
+Rafe grabbed her arm and pulled her up. “We have to go. Now!”
+
+She didn’t resist.
+
+They pushed deeper into Sector C.
+
+More bodies. More broken laboratories. More horrifying glimpses of what had been attempted—cages filled with decayed test subjects, neural scanners fused to skulls, syringes scattered like confessionals.
+
+At one room, Beth froze.
+
+“Rafe… look.”
+
+He stepped beside her—and felt his stomach turn.
+
+A large containment tank stood against the wall. Its glass was shattered from the inside. On the floor lay a creature that was once human—but its limbs were swollen, skin mottled purple and green, veins bulging like ropes. Its mouth was distended unnaturally, teeth grown long and needle-like.
+
+Vega whispered, haunted, “Prototype Subject 21B. Early augmentation attempt. I thought… I thought they incinerated him.”
+
+Beth stepped away, pale. “How could you do this to people?”
+
+Vega’s face broke. “We were told it would help soldiers survive. Improve cognition. Save lives. But the virus… it wasn’t stable. Every mutation was worse.”
+
+“Worse how?” Rafe asked.
+
+Vega looked at him bleakly. “It learned.”
+
+Rafe stiffened. “Learned?”
+
+“Yes,” Vega said. “This virus adapts. It watches. It imitates. The variants today behave differently than those from three days ago. They evolve around resistance.”
+
+Rafe felt cold sink into his bones.
+
+“This world can’t go back,” Rafe whispered. “Not after this.”
+
+Vega looked at him with hollow regret. “No. The world we knew is gone. What we’re fighting for now… is a version that can survive.”
+
+Before Rafe could reply, Sabine hissed, “We’re here.”
+
+The containment vault.
+
+A reinforced steel door stood at the end of a narrow hallway. Faint light flickered behind small viewing windows.
+
+But the hallway itself—
+
+Rafe paled.
+
+Bodies.
+
+Dozens.
+
+More than dozens.
+
+Soldiers and scientists both, piled sideways against the walls. Some torn apart. Some intact, but with faces twisted in fear.
+
+“God,” Nina whispered. “They died protecting it.”
+
+Sabine wiped her eyes quickly and stepped forward. “Let’s open the vault.”
+
+Vega keyed in the override. The lock clicked. The door creaked.
+
+Inside, the vault was frigid and eerily quiet. Rows of cryo-chambers lined the walls. Only one chamber still hummed with faint power, frost coating its surface.
+
+Alpha Strain.
+
+The only uncorrupted sample.
+
+Vega moved toward it with trembling hands. “There… it’s still intact.”
+
+Rafe hovered over his shoulder, adrenaline buzzing. “Grab it. Let’s get out.”
+
+As Vega carefully removed the cryo-case, something slammed against the vault door.
+
+Everyone turned.
+
+Another slam. Then another.
+
+Sabine lifted her rifle. “Variants.”
+
+“They followed our scent,” Vega whispered.
+
+“No,” Rafe said, dread sinking. “They followed the noise.”
+
+The steel began to warp inward.
+
+Nina took a step back. “We’re trapped.”
+
+Vega held the cryo-case close. “There’s a maintenance shaft behind the storage racks. We can squeeze through—if we move fast.”
+
+Sabine didn’t hesitate. “Go!”
+
+Rafe and Nina pushed aside heavy storage crates. The shaft opening was barely shoulder-wide and sloped upward into darkness.
+
+Sabine fired warning shots at the door as it buckled. “MOVE!”
+
+They climbed into the shaft, one by one—Vega first with the sample, then Beth and Miriam’s son, then Liza. Mila clung to Rafe as he guided her into the narrow tunnel.
+
+“Faster!” Nina urged, crawling behind them.
+
+Sabine was last to enter—but before she could—
+
+The vault door blew inward.
+
+A wave of variants poured through.
+
+“Sabine!” Rafe shouted.
+
+“GO!” she screamed back, firing a burst that tore through three creatures. “Don’t look back! GO!”
+
+She kicked the metal rack behind her, creating a clang that drew the variants. Then she dove into the shaft and pulled the metal crate down to block the entrance.
+
+Teeth and claws tore at the metal from behind them.
+
+But it held.
+
+For now.
+
+They crawled upward through the shaft, scraping knees and palms, panting in the stale air. The metal vibrated with the pounding below.
+
+Rafe shoved Mila forward. “Don’t stop. Keep going.”
+
+“I’m scared!” she cried.
+
+“So am I,” he whispered. “But I’m here.”
+
+At last, the shaft opened into another corridor—less destroyed, lit faintly by emergency lights. They spilled out onto the ground in a heap, gasping.
+
+Sabine pulled herself through last, body shaking from exertion, sweat and blood smearing her face.
+
+She slammed the vent shut behind them.
+
+Silence followed.
+
+A long, fragile silence.
+
+Vega held up the cryo-case, frost shimmering on its surface.
+
+“We got it,” he whispered, breathless. “We actually got it.”
+
+But Rafe didn’t feel triumph.
+
+He felt the weight of the dead—the bodies in the hallway, Dizon’s final breath, the broken world Vega had unveiled.
+
+Nina leaned against the wall, tears sliding down her face silently. Liza held her son, trembling. Beth covered her mouth, eyes red.
+
+Sabine met Rafe’s gaze.
+
+Her voice was barely a whisper. “This isn’t victory. It’s just… a chance.”
+
+Rafe nodded, throat tight.
+
+“Then we take it,” he said. “Because it’s all we have left.”
+
+And with the sample that might save the world—or doom it further—they limped out of Sector C and into a future that no longer resembled anything they once knew.
+
+The world they’d left behind wasn’t coming back.
+
+Whatever came next…
+
+They would have to build it with their own blood.
+
+
+Chapter 12: The Last Stand
+
+The bunker seemed to breathe with them—every person, every heartbeat, every trembling breath—its walls expanding and contracting like the chest of something waiting to die. After the raid, after the desperate crawl through the maintenance shaft, the survivors staggered into the central operations room, adrenaline pumping through their veins like fire. The whole facility smelled of cold steel, blood, and the sour tang of fear.
+
+Rafe collapsed against a desk, chest heaving. Mila clung to him, shaking. Sabine leaned her rifle against a console, her hands trembling—whether from exhaustion, grief, or the adrenaline spike, he couldn’t tell.
+
+Dr. Orion Vega stood in the center of the room, clutching the cryo-case that held the Alpha Strain—the last uncontaminated sample of the virus. It pulsed faintly with cold, frost clinging to its edges. He placed it gingerly on a steel table and exhaled shakily. His glasses were cracked, and his hands were smeared with dirt, but his eyes burned with a rare mixture of terror and hope.
+
+“This is it,” Vega whispered. “If there’s any chance of combating the mutations, any chance at all—it begins with this.”
+
+Rafe wiped sweat from his forehead. “How long to make a prototype treatment?”
+
+Vega shook his head. “Hours. Maybe less if everything works perfectly.”
+
+Sabine stepped closer. “We don’t have hours. The variants were right behind us.”
+
+Vega’s face hardened. “Then buy me the time.”
+
+They heard the horde before they saw it.
+
+A low rumble.
+A tremor in the walls.
+A distant, collective moan—like the sound of a thousand starving wolves sinking their teeth into the earth.
+
+Rafe’s heart began to pound.
+
+The horde.
+
+It wasn’t just a cluster. Not a few dozen.
+
+It was massive.
+
+Sabine sprinted to the central terminal where a cracked security monitor flickered weakly. She smacked the side of the screen, coaxing life into it.
+
+Static. Then—
+
+An exterior camera came online.
+
+Rafe stared, wide-eyed, breath caught in his throat.
+
+The valley outside the bunker was a sea of infected.
+
+Hundreds—maybe thousands—swarming like a fluid organism. Variants crawled over normal infected. Normal infected surged like waves. Some sprinted on all fours. Others slithered unnaturally. All of them moved with chilling coordination.
+
+Miriam gasped, clasping her hand over her mouth.
+
+Liza clutched her boy’s head, pulling him against her chest.
+
+Nina stepped back involuntarily. “Dear God…”
+
+Victor whispered a trembling curse.
+
+Dr. Vega stared at the monitor, horror painting his features as realization dawned. “The raid… We made too much noise. The variants… they’re attracted to patterns of movement. They—they’ve been listening.”
+
+Rafe’s stomach dropped. “We led them straight here.”
+
+Sabine’s jaw tightened. “Then this is where we make our stand.”
+
+More cameras flickered on, revealing infected flooding the ruined perimeter. Bodies piled over bodies as they forced themselves into breaches. The sound of claws scraping metal and fists pounding concrete grew louder.
+
+The bunker trembled.
+
+The last barrier between their group and extinction thinned with every passing breath.
+
+Sabine grabbed her rifle and barked, “Everyone who can hold a weapon, with me!”
+
+Vega shot a fearful glance at her. “If the lab doors breach—”
+
+“We’ll hold them,” Sabine said sternly, even though her eyes flicked toward Rafe for a brief moment—fear hidden behind duty.
+
+Rafe squeezed Mila’s shoulder and knelt so their eyes met. “Stay with the scientists. Stay with Nina. I’m coming back. I promise.”
+
+Mila’s voice cracked. “You promised Elias too.”
+
+Rafe’s breath shattered inside him.
+
+He didn’t answer—he couldn’t.
+
+Instead, he touched his forehead to hers. “I’m coming back.”
+
+She stared at him a moment longer, searching his face for certainty.
+
+He gave her the best smile he could.
+
+Then he rose.
+
+They barricaded the operations room doors with desks, metal panels, and heavy storage crates. Sabine directed the soldiers and volunteers with precise, sharp commands.
+
+“Cover all entrances. Use the emergency shutters. Seal corridor B completely.”
+
+Dizon was dead. Only one soldier remained—a young man named Ortiz whose hands shook as he secured a heavy chain around a bulkhead door.
+
+Rafe clapped him on the shoulder. “Stay calm. Just breathe.”
+
+Ortiz nodded, swallowing hard. “I didn’t sign up for… for monsters.”
+
+“None of us did,” Rafe said. “But here we are.”
+
+Beth handed out pieces of metal pipe, chair legs, and makeshift spears fashioned from broken lab equipment. Victor and Liza worked together to pull down a fallen security gate, creating a choke point.
+
+Sabine loaded her last two magazines. “We hold until Vega says otherwise.”
+
+“And if he doesn’t?” Victor snapped.
+
+Sabine didn’t blink. “We hold anyway.”
+
+Rafe stepped beside her, pipe ready in his grip. “Right behind you.”
+
+For the first time, she allowed herself a small, grim smile.
+
+“You better be.”
+
+The pounding started like distant thunder.
+
+Boom.
+Boom.
+BOOM.
+
+Metal groaned. Dust rained from the ceiling. The air vibrated with the pressure of the horde slamming the perimeter.
+
+Then one door gave way.
+
+A twisted security gate crumpled inward.
+
+A normal infected crawled through first—skin blue-gray, bones jutting sharply.
+
+Sabine fired once, clean shot to the head.
+
+The creature dropped.
+
+But twelve more pushed behind it.
+
+Rafe charged, smashing one across the jaw. Ortiz stabbed another through the throat. Nina swung a broken crowbar at a lunging corpse.
+
+The infected poured in waves.
+
+Clawing.
+
+Screeching.
+
+Gnashing.
+
+The survivors fought with desperation carved into every motion.
+
+Blood—everywhere.
+Sweat.
+Grit in their teeth.
+Hands slipping on metal.
+Cries of fear and fury echoing through the hall.
+
+And behind the first wave—
+
+Variants.
+
+They crawled on walls, twisting, shrieking with unnatural intelligence. One leapt from a support beam straight at Beth.
+
+Rafe saw it out of the corner of his eye. “Beth, down!”
+
+She ducked too slow.
+
+The variant landed on her.
+
+Its claws sank into her shoulder. Its teeth ripped into her upper arm.
+
+Beth screamed, a sound that tore Rafe in half.
+
+Rafe smashed it off her, swinging until bone split. Sabine fired twice into its skull for good measure.
+
+Beth slid against the wall, breathing fast, blood pumping from the wound.
+
+She stared at Rafe, terror shining through pain. “It bit me.”
+
+“No,” Rafe whispered. “No it didn’t. It didn’t—”
+
+Beth touched her arm, fingers trembling. “Rafe… it bit me.”
+
+Time cracked.
+
+Nina knelt beside her, eyes filling with instant grief. “We can’t— We can’t help—”
+
+Beth shook her head slowly. “Don’t let me turn. Please. Not like them.”
+
+Rafe felt the world tilt. “We can— We can… we can try. Vega might—”
+
+Beth grasped his hand with blood-slick fingers. “Rafe. Listen. You promised her. Mila. Don’t let her see this. Finish what we started.”
+
+Sabine gripped Rafe’s arm. Her voice was impossible. “We don’t have time.”
+
+The infected pressed closer. Ortiz screamed for help. Victor stumbled, blood streaming from a cut on his forehead. Liza dragged her son backward.
+
+Beth looked directly at Rafe.
+
+“Please.”
+
+Rafe’s throat burned. His hand trembled around the pipe.
+
+He couldn’t breathe.
+
+He couldn’t think.
+
+He swung.
+
+Beth exhaled softly—
+
+—and then she was gone.
+
+Rafe staggered backward as Nina pulled Beth’s body away from the line, tears streaking her face.
+
+“No time,” Sabine said, voice harsh but breaking. “We hold the line!”
+
+Rafe raised his pipe again, blood splattering his grip.
+
+The infected surged.
+
+Rafe roared.
+
+In the operations room, Vega and the scientists worked furiously. They connected the cryo-case to the bunker’s remaining functional bio-synthesizers. The machines sputtered, screens flickering, but held.
+
+Mila stood beside Nina, eyes wide, watching Vega’s every move.
+
+“How long?” Nina asked through the intercom, voice shaky.
+
+“Minutes,” Vega replied. “If the power holds.”
+
+“If it doesn’t?”
+
+Vega didn’t answer.
+
+The synthesizer hummed, processing the Alpha Strain.
+
+Outside the lab—
+
+Claws scraped metal.
+Variants hissed.
+A deeper thud echoed—a mutated brute pounding at corridors.
+
+Mila whimpered. “Rafe…”
+
+Nina squeezed her tightly. “He’s fighting. He’s with Sabine. He’ll come back.”
+
+She prayed she wasn’t lying.
+
+The horde struck harder.
+
+The corridor walls vibrated. Cracks formed in the concrete.
+
+Sabine fired her last bullet. “Out!”
+
+Rafe swung wildly, pipe bending under impact. Ortiz screamed as a variant tackled him. Sabine stabbed it with her combat knife, but more took its place.
+
+Victor shouted, “Fall back! Fall back!”
+
+“No!” Sabine snarled. “If they reach Vega, everything’s lost!”
+
+Another wave collapsed through the doorway—normals, variants, twisted prototypes from the early experiments. One enormous beast, taller than a man, pounded forward with bone growths on its arms like clubs.
+
+Sabine stared at it in horror. “Prototype Titan—How is that still—?”
+
+Rafe grabbed her arm.
+
+“Sabine—together!”
+
+She nodded, breath ragged. “Together.”
+
+They charged.
+
+The Titan slammed its arm into the ground, cracking the floor. Debris exploded upward. Rafe dodged left; Sabine rolled right. They struck at its legs—Sabine with the knife, Rafe with the pipe.
+
+It howled—too loud, too human.
+
+It swung again.
+
+Sabine was thrown backward, crashing into the wall. Rafe froze as she hit the concrete, body crumpling.
+
+“SABINE!”
+
+The Titan turned toward her—
+
+Rafe threw everything he had left into one desperate swing.
+
+“HEY!”
+
+He smashed his pipe against the Titan’s jaw.
+
+The creature turned, snarling—
+
+—and Sabine pushed herself up, blood dripping from her forehead, and plunged her knife into its exposed throat.
+
+Rafe drove the pipe into its skull.
+
+Together they brought it down.
+
+Exhausted, shaking, Rafe collapsed beside her.
+
+She met his gaze through blurry eyes. “Not bad… for a civilian.”
+
+He managed a broken laugh. “Not bad for a soldier.”
+
+But the corridor was shaking. More infected approached.
+
+Dozens.
+
+Hundreds.
+
+Sabine rose, wobbling. “We can’t hold this much longer.”
+
+Vega’s voice crackled over the intercom. “Rafe—Sabine—the prototype is finished!”
+
+They froze.
+
+“It’s ready,” Vega said. “But you must reach us—now!”
+
+Sabine pushed Rafe toward the operations room. “Go!”
+
+“You’re coming too!”
+
+“Go!”
+
+Rafe grabbed her, forcing her arm around his shoulder. “I’m not leaving anyone.”
+
+She didn’t argue this time.
+
+They limped toward the lab, chased by the nearing thunder of the horde.
+
+The operations room doors shook violently as Rafe and Sabine stumbled inside. Nina slammed them shut. Victor and Liza pushed a cabinet against the hinge. Mila ran to Rafe, sobbing as she wrapped her arms around him.
+
+Rafe held her close. “I’m here. I’m here.”
+
+Vega turned, holding a small vial glowing blue.
+
+“This is it. The prototype inhibitor.”
+
+Rafe stared, breath shaking. “What does it do?”
+
+Vega swallowed. “It slows the virus. Maybe halts mutation. Maybe buys humanity time.”
+
+“Will it cure the infected?” Nina asked desperately.
+
+Vega’s voice cracked.
+
+“No.”
+
+Silence.
+
+“Then what—”
+
+“It will stop *us* from turning as fast if bitten. It will prevent instant transformation. It might make further mutations less stable. It gives us… maybe a year. Maybe two.”
+
+Rafe exhaled—painful relief and sorrow mixed together.
+
+Hope, in its most fragile form.
+
+Sabine nodded. “We distribute and leave.”
+
+Vega held up the vial. “This is the only prototype. We must replicate it in a facility—one that still has power. One that’s not… dead.”
+
+Nina whispered, “Where?”
+
+Vega answered with a single word.
+
+“Baguio.”
+
+Rafe’s stomach dropped.
+
+“That’s… that’s a week away.”
+
+“Yes,” Vega said. “And if we stay here, we die in an hour.”
+
+As if on cue, the main door cracked under pressure.
+
+Claws pierced through.
+
+Rafe stepped in front of Mila.
+
+Sabine lifted her knife.
+
+Victor gripped a metal pole so tight his knuckles whitened.
+
+Nina stood beside Rafe, trembling but resolute.
+
+The bunker shook.
+
+Sabine whispered, “Last stand.”
+
+Rafe nodded.
+
+Then Vega pulled a manual override on a secured hatch in the floor—an emergency evacuation tunnel.
+
+“Go!” Vega shouted. “This leads to a drainage system outside the valley. You can escape!”
+
+“What about you?” Sabine snapped.
+
+Vega lifted the prototype and a pistol. “I’ll seal the hatch behind you. They can’t get the sample if I’m the one holding it.”
+
+“No!” Rafe shouted. “You’re coming with us! You have to show us how to replicate—”
+
+Vega shook his head. “You know enough. You have the vial’s formula stored on your watches. I can’t outrun them. But I *can* buy you the time you bought me.”
+
+Mila cried, “Don’t leave us!”
+
+Vega knelt, cupping her cheek gently. “Little one… you deserve a future. Go find it.”
+
+The door finally burst open.
+
+A flood of infected surged.
+
+Sabine grabbed Mila, Nina dragged Liza forward, Victor lifted Miriam’s boy.
+
+Rafe stared at Vega.
+
+Vega stared back.
+
+A nod.
+
+A goodbye.
+
+Rafe dropped into the hatch.
+
+Sabine pulled Mila down.
+
+Nina and Liza followed.
+
+Victor jumped after them.
+
+Sabine grabbed the edge last, shouting, “Vega—!”
+
+But Vega smiled softly, sealed the hatch—
+
+—and faced the horde.
+
+Gunfire erupted.
+
+Screams.
+
+Then silence.
+
+The survivors scrambled through the narrow tunnel, Mila crying into Rafe’s chest, Sabine pressing forward with fresh blood drying on her cheek, everyone bruised and broken.
+
+They emerged into the cold night beyond the valley.
+
+Behind them, the bunker burned.
+
+Rafe watched the flames rise, tears streaking his soot-stained face.
+
+Sabine touched his shoulder.
+
+“The last stand,” she whispered.
+
+Rafe nodded.
+
+“And now…”
+
+He looked north.
+
+Toward Baguio.
+
+Toward the last chance for humanity.
+
+“…we continue.”
+
+And with the roar of the burning bunker behind them, they walked into the dark—carrying the prototype, the memory of the fallen, and a fragile spark of hope.
+
+
+Chapter 13: Mila's Choice
+
+They left the valley behind in silence—just the faint crackle of the burning bunker and the crunch of shoes on gravel echoing through the cold night. The stars above were sharp, unblinking witnesses. Every survivor walked with a different kind of limp: physical, emotional, or both. Rafe carried Mila on his hip for a while, even though she insisted she could walk. Her arms were wrapped tightly around his neck, and he didn’t have the heart to put her down.
+
+No one spoke of Dr. Vega. No one could. His last stand—a single man with a pistol standing between the horde and humanity’s only hope—hung heavy in their chests.
+
+Sabine walked in front, her steps fierce but uneven, the way a soldier walks when adrenaline begins to fade and pain sneaks into old bruises. Nina kept checking the vial strapped to her arm, making sure the precious prototype hadn’t been damaged. Beth’s death, Dizon’s sacrifice, Elias in the mall, Victor—every loss echoed in their minds.
+
+It was hours before they found a small clearing beside a stream to rest. Trees loomed around them like tired guardians, offering a fragile sense of safety. The group collapsed—not into the comfortable sleep of fatigue, but into an uneasy rest where every branch snap felt like a threat.
+
+Rafe set Mila down gently. She curled into a ball at his side, clutching her stuffed rabbit—the ragged toy one of the few pieces of her world left untouched by blood.
+
+Sabine sat against a tree, wiping dried blood from her arms with a torn cloth. She watched Rafe with a soft but unreadable expression.
+
+“You saved us back there,” she whispered.
+
+Rafe didn’t look up. “We saved each other.”
+
+She nodded once. “Yeah. We did.”
+
+The fire they built was small—barely a glow—but it was enough to warm fingers stiffened by cold and fear. It cast long, thin shadows across their faces, making them look older, worn down by a world that demanded too much.
+
+Hours passed. The night thickened. Rafe finally allowed his eyes to close.
+
+But sleep didn’t last.
+
+A cough woke him.
+
+Soft. Tight. Wrong.
+
+Mila was curled beside him, shaking—her small hand pressed to her chest.
+
+“Mila?” Rafe whispered, brushing her hair aside. “Hey—look at me. What’s wrong?”
+
+Her eyes fluttered open. “Rafe… my chest hurts.”
+
+The world froze.
+
+Rafe felt something awful unfurl in his stomach. “Where?”
+
+She touched the space beneath her collarbone, wincing.
+
+Sabine sat up immediately. “What’s happening?”
+
+Nina hurried over, kneeling beside them. “Let me see.”
+
+Mila’s small frame trembled. She lifted her shirt. At first there was nothing—and then, as the fire’s glow shifted, Rafe saw it.
+
+A faint line of gray-veining beneath her skin.
+
+It was subtle.
+
+Barely visible.
+
+But unmistakable.
+
+It was the same marbling Elias had told them about before his death. The same pattern they had seen on early-stage infection cases.
+
+Rafe’s throat closed. “No. No, no—this can’t—”
+
+Mila blinked, confused by his panic. “Did I do something wrong?”
+
+“No,” Rafe breathed. “Never.”
+
+Nina leaned closer, voice unsteady. “How long has that been there?”
+
+Mila frowned. “It… it was itchy in the mall. But I didn’t want to make you sad. Everyone was so scared already.”
+
+Rafe closed his eyes, fighting the rising tide of dread. The mall. She had been in the smoke, the dust, the blood. She had stumbled. She had helped carry supplies. She had been near the variants.
+
+But Mila hadn’t shown any signs.
+
+And the infection always showed.
+
+Always.
+
+Sabine exhaled slowly. “If she was exposed back then… she should have turned days ago.”
+
+“But she didn’t,” Nina whispered. “She’s still herself.”
+
+Liza clutched her son closer, fear widening her eyes. Victor backed away, shaking his head. Miriam murmured prayers under her breath.
+
+Sabine rose to her feet, face tense. “Rafe… we need to think clearly.”
+
+“No,” he snapped, clinging to Mila. “We’re not talking about this.”
+
+Sabine’s voice softened, but it didn’t lose its edge. “If she’s infected—”
+
+“She’s not.”
+
+“We don’t know that.”
+
+“We would know!” Rafe’s shout echoed through the clearing, startling even himself.
+
+Mila whimpered, and he immediately lowered his voice. “She’s fine. She’s okay.”
+
+Nina touched Rafe’s arm carefully. “Rafe… look at her.”
+
+He couldn’t.
+
+He didn’t want to.
+
+Because the truth was seeping in—slow, suffocating.
+
+She wasn’t turning.
+
+But she wasn’t well.
+
+Sabine crouched across from him. “We have the prototype. If she’s infected, maybe it can help.”
+
+“Maybe?” Rafe spat bitterly. “You want to gamble on ‘maybe’ with her life?”
+
+Nina swallowed. “Vega said the prototype slows the mutation. But it also stabilizes early-stage infection. If Mila’s been fighting the virus this long, she might… she might be the key.”
+
+Rafe shook his head, eyes burning. “She’s a child.”
+
+Sabine looked him in the eye—really looked, her voice breaking through the leader in her to reveal the woman beneath.
+
+“She’s also the only one we’ve seen who hasn’t turned.”
+
+Nina added, “If her body is resisting the virus… her blood might be producing antibodies that nothing else has.”
+
+Mila watched them with frightened but curious eyes. She didn’t cry. She didn’t scream. She listened like a child forced to grow too quickly, trying to decipher the weight of adult words.
+
+“Am I dying?” she asked softly.
+
+Rafe’s breath collapsed in his chest. “No. You’re not. You’re not dying. Don’t say that.”
+
+Mila looked at him with heartbreaking innocence. “Then why is everyone sad?”
+
+Rafe wiped a hand down his face. “Because they’re afraid. They don’t understand how strong you are.”
+
+Nina looked at Mila gently. “Mila… do you remember when you were hiding in the van? When you didn’t get sick even though your family did?”
+
+Mila nodded slowly.
+
+“That’s important,” Nina said. “It means your body might work differently from ours.”
+
+Sabine spoke quietly. “It means you could help people.”
+
+Mila blinked. “Help… everyone?”
+
+Rafe snapped, “She doesn’t have to help anyone. She just has to survive.”
+
+Sabine didn’t back down. “The prototype can be tested using her blood. It could confirm whether her antibodies react to the unmutated strain. Maybe even help us replicate it safer.”
+
+Rafe’s pulse slammed in his ears.
+
+“You want to experiment on her?”
+
+Nina shook her head quickly. “No. No experiments. A blood draw. That’s all. Just to see how she responds.”
+
+Rafe’s voice cracked. “And if she reacts badly? If the prototype hurts her?”
+
+Nina whispered, “It might. But doing nothing could be worse.”
+
+Mila put her small hand over Rafe’s.
+
+“I can do it.”
+
+Her voice was tiny but steady.
+
+Rafe froze.
+
+Mila looked up at him with the same brave, fragile expression she had when she asked if they were going into the dark again.
+
+“I want to help,” she whispered. “If my blood helps you… helps Sabine, helps Nina, helps everyone… then I want to.”
+
+Rafe shook his head, tears forming. “Mila, sweetheart, you don’t understand—this could hurt you. This could kill you.”
+
+Mila leaned her head against his chest. Her hair smelled like smoke and sweat and childhood, and Rafe felt everything inside him tear.
+
+“You told me once,” she said softly, “that brave people don’t want to be brave. They just have to… because no one else can.”
+
+Rafe’s breath broke entirely.
+
+“That’s not what I meant,” he whispered.
+
+“But it’s what’s happening,” Mila said. “Isn’t it?”
+
+Sabine’s eyes glimmered with something rare—respect, sorrow, admiration. “She’s stronger than all of us.”
+
+Nina exhaled shakily, wiping her cheeks. “We can do the draw carefully. We’ll monitor her. The prototype can be diluted… safer.”
+
+Rafe held Mila tightly, burying his face in her hair. “I promised to protect you.”
+
+“You are,” she whispered. “You’re protecting everyone.”
+
+Rafe shook as the truth cornered him, unavoidable and cruel.
+
+He couldn’t stop her.
+
+He couldn’t deny her.
+
+He could only stand beside her.
+
+Finally, slowly, Rafe nodded—barely.
+
+Sabine placed a hand on his shoulder. “We’ll take every precaution.”
+
+“It’s her choice,” Nina murmured.
+
+Mila rested her forehead against Rafe’s chest. “I choose to help.”
+
+Rafe closed his eyes, and the tears fell.
+
+“Okay,” he whispered. “Okay, Mila. I’m with you. Every step.”
+
+Nina prepared the needle with trembling hands. Sabine stood guard. Liza held her son tightly. Victor stared at the ground.
+
+The fire crackled.
+
+The world seemed to hold its breath.
+
+Mila held out her arm.
+
+“Go ahead,” she whispered.
+
+Rafe kissed her forehead.
+
+And with a hollow ache deep in his soul, he let them take her blood—hoping it would save them all.
+
+
+Chapter 14: The Cure or The End
+
+A faint pink wash hovered over the treetops as dawn crept slowly into the mountains—a tender, fragile sunrise that didn’t belong to the horrors waiting below. Rafe barely noticed it. His world had shrunk to the trembling little girl leaning against him, her arm wrapped in gauze, her breathing shallow but steady. Mila slept curled into a tight, exhausted ball, her head on his lap, her stuffed rabbit tucked against her cheek. She had given more blood than any child her age should ever have to give. Nina checked her vitals every twenty minutes, adjusting blankets and whispering reassurances that were meant more for Rafe than for Mila.
+
+Just a day ago, they had escaped the burning Tanay bunker—watched Vega give his life to buy them seconds, enough to crawl into a tunnel and flee the death he held back with shaking hands. Now, huddled inside an abandoned ranger outpost deep in the forest, they awaited the results of the blood test. The prototype treatment sat chilling in a metal case near Nina’s knee—a thin vial of opaque blue fluid that seemed too small, too fragile, to hold humanity’s fate.
+
+Sabine sat at the entrance, watching the treeline with a soldier’s stillness. The first hints of sunlight touched the sharp planes of her face, softening the edges of the person she had been when the world still made sense. Her rifle lay across her lap, loaded, safety off. Her eyes remained fixed on the woods, where the infected could appear at any moment. Even after a night of silence, Rafe could feel it in her posture: danger was coming. Not if—when.
+
+Miriam murmured her morning prayers, her little boy copying every word. Liza massaged her son’s shoulders, whispering that everything would be okay even though fear strained her voice thin. Victor slept against the wall, arms folded, his face twitching with the beginnings of regret that he never verbalized.
+
+Nina finally stood, brushing hair off her face. “The tests are stable,” she said quietly.
+
+Rafe’s heart thudded. “Stable how?”
+
+“Mila’s antibodies reacted to the Alpha Strain,” Nina said. Her voice quivered—not with fear, but with awe. “They bind to it. Not completely. But enough to slow replication. Rafe… it means she’s resisting the virus.”
+
+Sabine turned fully toward them. “Meaning?”
+
+“Meaning Vega was right,” Nina whispered. “Her immunity isn’t just a fluke. It’s real. And her blood with the prototype together… they make something stronger. Something that might stop early infection.”
+
+Rafe swallowed hard. “Might. Not will.”
+
+Nina stared at the vial. “It’s partial. It slows the infection. Delays mutation. In some cases, maybe even halts it—temporarily. But it isn’t a cure. Not yet.”
+
+Rafe felt something warm and painful burn inside his chest—relief and heartbreak knotted together.
+
+“So it’s not enough,” he murmured.
+
+Sabine stood slowly. “But it’s something.”
+
+“Something that might save thousands,” Nina added. “Something we can refine—if we can reach a functioning lab.”
+
+Rafe looked down at Mila’s sleeping face, pale but peaceful. “And what about her? It won’t hurt her?”
+
+Nina hesitated just a second too long. “Her fever spiked for an hour, but it stabilized. She’s fighting. She’s strong.”
+
+Rafe nodded. He didn’t trust his voice.
+
+Sabine stepped closer. “We need to move soon. The horde that hit the bunker won’t stay there. Variants track heat signatures and movement. They’ll sweep the valley and the forest. It’s only a matter of time.”
+
+“How long do we have before they find us?” Victor asked groggily.
+
+Sabine scanned the treeline. “Not long.”
+
+As if in response, a distant howl echoed from the mountain pass. It was faint—just a whisper—but it froze everyone in place.
+
+Rafe’s hand dropped instinctively to Mila’s shoulder.
+
+Another howl answered from the east.
+
+Then another.
+
+The forest seemed to inhale.
+
+Sabine grabbed her rifle. “They’ve formed hunting packs.”
+
+Rafe stood quickly, lifting Mila into his arms. “We need to go. Now.”
+
+But Nina shook her head sharply. “We can’t move yet. The equipment isn’t done processing. We need ten more minutes.”
+
+Sabine stepped forward, eyes fierce. “We don’t have ten.”
+
+A branch snapped somewhere in the distance.
+
+Nina looked at the computer—its battery nearly dead, lights flickering. “Five. Just give me five.”
+
+Rafe’s heart pounded. He turned toward Sabine.
+
+“We defend,” he said.
+
+She nodded. “We defend.”
+
+Victor grabbed a metal rod. “What’s the plan?”
+
+Sabine pointed to the narrow doorway of the ranger hut. “Choke point. Rafe, with me. Victor, back us up. Miriam, Nina, Liza—guard Mila. If they break through, you run with her.”
+
+Mila stirred weakly, eyes fluttering open. “Rafe…?”
+
+He kissed her forehead. “Stay with Nina.”
+
+She looked at him with that heartbreaking trust. “Come back.”
+
+“I will,” he whispered, even though his stomach twisted at the lie.
+
+The forest grew unnaturally quiet, as if the world was holding its breath.
+
+Then something moved between the trees.
+
+Low. Fast. Crawling.
+
+A variant.
+
+It emerged into view—its limbs too long, its spine ridged and pulsing, its head cocked at an inhuman angle. Its eyes reflected light like an animal’s, intelligent and hungry.
+
+Sabine steadied her rifle. “Hold.”
+
+More shapes slipped between the trees.
+
+Three.
+
+Six.
+
+Ten.
+
+Rafe gripped the pipe tightly, sweat cold on his palms.
+
+Mila whimpered.
+
+Nina whispered a prayer.
+
+Victor muttered, “Oh God.”
+
+The first variant lunged.
+
+Sabine shot it mid-air. The bullet cracked through its skull, spraying gore across the dirt.
+
+Then the forest exploded with motion.
+
+Dozens of infected charged from all sides—some sprinting on all fours, some stumbling but fast, some leaping from branches overhead.
+
+Sabine fired rapidly, each shot precise. Rafe slammed his pipe into the jaw of a sprinting infected, knocking it to the ground. Victor stabbed wildly at another, screaming with each thrust.
+
+More swarmed.
+
+Sabine yelled, “Back! Back!”
+
+A variant crashed into the doorway, clawing at Rafe’s arm. He shoved Mila’s stuffed rabbit into his pocket, gripping the pipe with both hands as he hammered the creature’s skull until bone gave way. Blood splattered his shirt, warm and nauseating.
+
+Another slammed into Sabine, knocking her down. Rafe kicked it away, helping her up. Their eyes met—raw fear, shared fire.
+
+She reloaded quickly. “We’re losing ground!”
+
+Inside the hut, Nina screamed, “Almost done! Thirty seconds!”
+
+The horde grew louder, closer. The hut trembled with the force of bodies slamming into the walls. Fingers clawed at the windows. Teeth scraped wood. Victor swung hard at a crawling infected that squeezed halfway through a crack in the wall. Its hand stuck, twitching.
+
+Sabine reloaded again, her hands slick with blood. “Rafe—we need to block the door!”
+
+“There’s nothing left to block it with!”
+
+A variant crashed into Victor, dragging him to the ground. He screamed, kicking and clawing. Rafe swung his pipe, knocking the creature off him, but it was too late—its claws had torn a deep gash across Victor’s stomach.
+
+“I—I can still fight,” Victor gasped.
+
+But his hands trembled.
+
+Mila cried out from inside the hut. “Rafe!”
+
+He turned.
+
+A variant was crawling through the window toward her.
+
+Rafe moved before he could think.
+
+He sprinted, diving shoulder-first into the creature, knocking it back out the window. They tumbled into the dirt. It slashed his face. He brought the pipe down on its skull again and again until the body stopped twitching.
+
+Sabine fired behind him—three more shots.
+
+Then Nina screamed from inside the hut.
+
+“Rafe! Sabine! It’s ready!”
+
+Rafe grabbed Mila, heart pounding. “We need to leave NOW!”
+
+Sabine shouted, “Fall back to the tree line! MOVE!”
+
+The horde crashed fully into the hut, splintering wood, knocking down shelves. The whole structure groaned under the weight of bodies.
+
+Nina shoved the sealed vial into Rafe’s hand. “Don’t lose it! This—this is Vega’s legacy!”
+
+Rafe tucked it into his vest.
+
+Sabine guided everyone through the back window, firing behind them to slow the mass of infected pushing through the doorway. The forest suddenly erupted in screams—birds, monkeys, every animal in the canopy fleeing as if sensing the unnatural storm of death sweeping through the clearing.
+
+Rafe ran.
+
+Branches tore at his arms. Sabine’s footsteps thundered behind him. Victor stumbled but managed to keep up, clutching his wound. Miriam pulled her son along, both crying.
+
+Behind them, the hut collapsed with a deafening roar as variants poured out like a tidal wave of teeth and claws.
+
+Rafe didn’t look back.
+
+Only forward.
+
+Toward any chance, any sliver of hope.
+
+Mila gasped against his shoulder. “Are we safe?”
+
+He forced his voice steady. “Not yet—but we will be.”
+
+Sabine shouted, “Rafe! This way!”
+
+She led them toward a narrow ravine, thick with fog. It would buy them time. Maybe minutes. Maybe seconds.
+
+But it was enough.
+
+They leaped down the slope, tumbling, sliding into the mist until the world became gray and shapeless.
+
+The infected roared behind them, their screams echoing across the valley.
+
+But they survived.
+
+Barely.
+
+Mila pressed her cheek against Rafe’s chest, whispering, “We still have the cure?”
+
+Rafe looked at the vial—small, glowing faintly in the dawn.
+
+“Yes,” he whispered. “We still have hope.”
+
+Sabine stood beside him, breathing hard, staring at the mist that hid the horde.
+
+“This isn’t the end,” she said.
+
+Rafe nodded slowly. “No.”
+
+He held Mila tighter.
+
+“We’re not done yet.”
+
+And with the world around them burning, the infected screaming from the forest behind them, and the prototype glimmering like a fragile promise in his vest—
+
+they ran.
+
+Toward Baguio.
+
+Toward the final choice.
+
+Toward whatever remained of the human future.
+
+
+Chapter 15: After The Quiet
+
+# **CHAPTER 15 — AFTER THE QUIET (FINALE)**
+
+The first thing Rafe noticed, weeks after the Tanay valley burned behind them, was how quietly the mountains breathed.
+
+No sirens.
+No screams.
+No pounding against metal doors.
+Only wind brushing through pine needles, birds breaking the dawn with hesitant chirps, and the distant hum of a river that had carved its path long before the world ended.
+
+The survivors had found refuge in a cluster of abandoned cottages perched on a ridge overlooking a terraced valley. The villagers who once lived here had fled early in the outbreak—leaving behind vegetable patches now grown wild, rain barrels half-full, and a chapel missing half its roof. Rafe and the others had repaired what they could: patching holes, clearing debris, stringing makeshift alarms from pots and cans around the perimeter.
+
+It wasn’t a fortress.
+
+But it was a home.
+
+A fragile one.
+
+A stubborn one.
+
+The world was still broken, and the infected still wandered the lowlands, but something fragile and improbable had taken root here—something Rafe hardly dared to call hope.
+
+---
+
+Mila woke first every morning. She wasn’t the same girl he had carried through the forest—her face was thinner, quieter, older—but she smiled more now. The sickness in her veins hadn’t advanced; in fact, the prototype treatment Nina administered to her once a week kept the marbling faint and slow-moving. Mila was living proof that the infection could be slowed—held at bay long enough for a future that didn’t end in death.
+
+Rafe found her standing outside the cottage, watching the sunrise carve orange into the ridge.
+
+“You’re up early,” he said softly.
+
+She nodded, hugging her rabbit to her chest. “The birds were loud.”
+
+“Birds are supposed to be loud.”
+
+Mila smiled faintly. “I like it.”
+
+Rafe leaned against the wooden post beside her. “Me too.”
+
+She reached for his hand—something she did less often now, not because she needed him less, but because she was growing into her own kind of strength.
+
+“Are we really going to Baguio?” she asked.
+
+“One day.” Rafe squeezed her hand. “Not yet. Not until we’re ready.”
+
+“Will the treatment help people like it helps me?”
+
+He hesitated—but only for a moment.
+
+“It will help enough,” he said.
+
+It wasn’t a cure. Not yet. But with Mila’s antibodies and Vega’s prototype, Nina had managed to synthesize a diluted treatment that slowed infection to a crawl. It wasn’t perfect. It wasn’t permanent. But it meant one thing:
+
+Bites were not instant death anymore.
+
+That alone was enough to change the world.
+
+Mila leaned against him. “Do you think Dr. Vega would be happy?”
+
+Rafe looked out at the terraced valley, where Liza and Miriam were pulling weeds and checking the traps Sabine had set for small game.
+
+“Yes,” he said. “I think he would.”
+
+---
+
+Sabine returned before noon, emerging from the tree line with a rifle strapped across her back and a small pack slung over one shoulder. Her clothes were dirty and scratched from days of scouting, but her steps were steady, and her eyes sharp. She walked straight to Rafe and handed him a folded flyer—weathered, torn, but unmistakably real.
+
+He stared at the printed symbol on the front.
+
+A rising sun.
+A shield.
+A radio frequency.
+
+“What is this?” he asked.
+
+Sabine took a seat beside him, stretching her legs with a grunt of pain. “Found it pinned to a market stall near Naguilian Highway. Looked recent.”
+
+Rafe unfolded it fully.
+
+**SAFE ZONE — BAGUIO CITY**
+
+**Civilians welcome. Medical support available. Treatment research ongoing.
+Broadcast on Frequency 93.7 FM at 1700H daily.**
+
+Mila gasped. “Safe zone! That means—”
+
+Rafe’s heart pounded. “It means the city’s fighting back.”
+
+Sabine nodded slowly. “And not just with bullets. They’re refining something. Maybe… the same thing we are.”
+
+Victor, who had been repairing fishing nets nearby, limped over. “If they’re broadcasting, it means power. Food. Walls.”
+
+Nina joined them, her hands stained with dye from grinding local herbs. “If they have doctors too… we might be able to compare our prototype to theirs. Cross-check data. Maybe even finish what Vega started.”
+
+Rafe ran a thumb over the paper—over the symbol that felt both foreign and familiar.
+
+A safe zone.
+A real one.
+Not a rumor.
+Not a hallucination borne of desperation.
+
+Miriam approached, clasping her son’s shoulder. “We could join them.”
+
+Victor snorted. “Or we could get shot for showing up uninvited.”
+
+Miriam gave him a sharp look. “Or we could not die in these mountains.”
+
+Liza added, “My son needs medicine. Real medicine. Not boiled leaves and lucky guesses.”
+
+Sabine leaned forward, elbows on knees. “I scouted enough to know one thing—the world’s waking up. People are regrouping. Fighting back. Reforming. If we want to be part of that… if we want Mila’s blood and the prototype to matter… Baguio is where we need to go.”
+
+Silence fell.
+
+Rafe looked around at the people who had crawled bleeding across highways with him, who had survived malls, bunkers, mountains, and their own demons. Each of them was bruised, changed, carved down to their core—but alive.
+
+Alive because of each other.
+
+He looked at Mila—her eyes bright, hopeful, brave.
+
+He felt Sabine’s gaze on him—quiet, steady, waiting.
+
+He held the flyer in both hands, weighing it like a stone.
+
+Weeks ago, he would have said no. He would have chosen only safety, only caution, only the promise he made to the small girl who trusted him.
+
+But the world was shifting.
+
+Healing in small, stubborn pockets.
+
+And Mila’s blood might be the key that tipped the balance.
+
+“We’ll go,” Rafe said softly, firmly. “Not today. Not tomorrow. We gather supplies. We prepare. And when we move… we do it together.”
+
+Mila nodded against his arm. “I want to go.”
+
+Sabine cracked the faintest smile. “Then it’s settled.”
+
+Victor rolled his eyes, but there was relief in them. “Another long walk. Fantastic.”
+
+Nina clasped her hands and bowed her head. “Vega would be proud.”
+
+Rafe stood, the breeze tugging gently at his shirt.
+
+He looked over the ridge—at the valley carved with light, at the cottages patched with tarp and hope, at the path winding north toward the unknown future.
+
+The world was not healed.
+
+Cities still burned.
+Homes lay empty.
+Families were torn apart.
+The infected still roamed.
+The variants still lurked in the shadows of civilization’s ruins.
+
+But somewhere in the chaos, people were building again.
+
+Learning again.
+
+Fighting again.
+
+Rafe inhaled the mountain air, clean and thin.
+
+“After everything we’ve lost,” he murmured, “we’re still here.”
+
+Mila looked up at him. “We survived.”
+
+He nodded, pressing a kiss to the top of her head. “We did.”
+
+Her small hand slipped into his.
+
+Sabine stepped beside him, shoulder brushing his just enough to feel the warmth. “And now?” she asked.
+
+Rafe stared at the horizon, where sunlight cut through the mist like a promise.
+
+“Now,” he said, “we fight for what’s left.”
+
+Not the past.
+Not the world that died.
+But the one ahead—
+
+flawed, dangerous, scarred—
+
+and worth saving.
+
+Together, they walked back toward the cottages and the flickering firelight of their temporary home, preparing for the journey north—toward Baguio, toward the resistance, toward the possibility of a cure…
+
+and whatever came after the quiet.
+
+**THE END.**
+
